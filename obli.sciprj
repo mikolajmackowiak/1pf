@@ -1,0 +1,749 @@
+SciDAVis 2.9.2 project file
+<scripting-lang>	Python
+<windows>	11
+<table>
+52728
+<table creation_time="2026-07-04 19:01:06:000" caption_spec="%n%C{ - }%c" name="Tabela2" columns="15" rows="37"><comment><![CDATA[/home/macko/studia/sem2/1pf/c1/ogrzewanie.csv]]></comment><column creation_time="2026-07-04 19:01:06:051" caption_spec="%n%C{ - }%c" name="T" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-07-04 19:01:06:051" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-07-04 19:01:06:051" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">2.2000000000000000e+01</row><row type="TypeDouble" index="1" invalid="no">2.4000000000000000e+01</row><row type="TypeDouble" index="2" invalid="no">2.6000000000000000e+01</row><row type="TypeDouble" index="3" invalid="no">2.8000000000000000e+01</row><row type="TypeDouble" index="4" invalid="no">3.0000000000000000e+01</row><row type="TypeDouble" index="5" invalid="no">3.2000000000000000e+01</row><row type="TypeDouble" index="6" invalid="no">3.4000000000000000e+01</row><row type="TypeDouble" index="7" invalid="no">3.6000000000000000e+01</row><row type="TypeDouble" index="8" invalid="no">3.8000000000000000e+01</row><row type="TypeDouble" index="9" invalid="no">4.0000000000000000e+01</row><row type="TypeDouble" index="10" invalid="no">4.2000000000000000e+01</row><row type="TypeDouble" index="11" invalid="no">4.4000000000000000e+01</row><row type="TypeDouble" index="12" invalid="no">4.6000000000000000e+01</row><row type="TypeDouble" index="13" invalid="no">4.8000000000000000e+01</row><row type="TypeDouble" index="14" invalid="no">5.0000000000000000e+01</row><row type="TypeDouble" index="15" invalid="no">5.2000000000000000e+01</row><row type="TypeDouble" index="16" invalid="no">5.4000000000000000e+01</row><row type="TypeDouble" index="17" invalid="no">5.6000000000000000e+01</row><row type="TypeDouble" index="18" invalid="no">5.8000000000000000e+01</row><row type="TypeDouble" index="19" invalid="no">6.0000000000000000e+01</row><row type="TypeDouble" index="20" invalid="no">6.2000000000000000e+01</row><row type="TypeDouble" index="21" invalid="no">6.4000000000000000e+01</row><row type="TypeDouble" index="22" invalid="no">6.6000000000000000e+01</row><row type="TypeDouble" index="23" invalid="no">6.8000000000000000e+01</row><row type="TypeDouble" index="24" invalid="no">7.0000000000000000e+01</row><row type="TypeDouble" index="25" invalid="no">7.2000000000000000e+01</row><row type="TypeDouble" index="26" invalid="no">7.4000000000000000e+01</row><row type="TypeDouble" index="27" invalid="no">7.6000000000000000e+01</row><row type="TypeDouble" index="28" invalid="no">7.8000000000000000e+01</row><row type="TypeDouble" index="29" invalid="no">8.0000000000000000e+01</row><row type="TypeDouble" index="30" invalid="no">8.2000000000000000e+01</row><row type="TypeDouble" index="31" invalid="no">8.4000000000000000e+01</row><row type="TypeDouble" index="32" invalid="no">8.6000000000000000e+01</row><row type="TypeDouble" index="33" invalid="no">8.8000000000000000e+01</row><row type="TypeDouble" index="34" invalid="no">9.0000000000000000e+01</row><row type="TypeDouble" index="35" invalid="no">9.2000000000000000e+01</row><row type="TypeDouble" index="36" invalid="no">9.4000000000000000e+01</row></column><column creation_time="2026-07-04 19:13:32:216" caption_spec="%n%C{ - }%c" name="Delta T" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-07-04 19:13:32:216" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-07-04 19:13:32:216" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="14" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="36">0.2</formula><row type="TypeDouble" index="0" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="1" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="2" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="3" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="4" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="5" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="6" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="7" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="8" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="9" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="10" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="11" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="12" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="13" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="14" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="15" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="16" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="17" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="18" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="19" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="20" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="21" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="22" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="23" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="24" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="25" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="26" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="27" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="28" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="29" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="30" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="31" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="32" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="33" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="34" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="35" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="36" invalid="no">2.0000000000000001e-01</row></column><column creation_time="2026-07-04 19:01:06:051" caption_spec="%n%C{ - }%c" name="R" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-07-04 19:01:06:051" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-07-04 19:01:06:051" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="14" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.1100000000000000e+01</row><row type="TypeDouble" index="1" invalid="no">9.8000000000000007e+00</row><row type="TypeDouble" index="2" invalid="no">8.8000000000000007e+00</row><row type="TypeDouble" index="3" invalid="no">8.0000000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">7.2999999999999998e+00</row><row type="TypeDouble" index="5" invalid="no">6.7000000000000002e+00</row><row type="TypeDouble" index="6" invalid="no">6.2000000000000002e+00</row><row type="TypeDouble" index="7" invalid="no">5.7000000000000002e+00</row><row type="TypeDouble" index="8" invalid="no">5.2999999999999998e+00</row><row type="TypeDouble" index="9" invalid="no">4.9000000000000004e+00</row><row type="TypeDouble" index="10" invalid="no">4.5999999999999996e+00</row><row type="TypeDouble" index="11" invalid="no">4.2000000000000002e+00</row><row type="TypeDouble" index="12" invalid="no">3.8999999999999999e+00</row><row type="TypeDouble" index="13" invalid="no">3.6000000000000001e+00</row><row type="TypeDouble" index="14" invalid="no">3.3999999999999999e+00</row><row type="TypeDouble" index="15" invalid="no">3.1000000000000001e+00</row><row type="TypeDouble" index="16" invalid="no">2.8999999999999999e+00</row><row type="TypeDouble" index="17" invalid="no">2.6000000000000001e+00</row><row type="TypeDouble" index="18" invalid="no">2.3999999999999999e+00</row><row type="TypeDouble" index="19" invalid="no">2.2000000000000002e+00</row><row type="TypeDouble" index="20" invalid="no">2.0000000000000000e+00</row><row type="TypeDouble" index="21" invalid="no">1.8999999999999999e+00</row><row type="TypeDouble" index="22" invalid="no">1.8000000000000000e+00</row><row type="TypeDouble" index="23" invalid="no">1.6000000000000001e+00</row><row type="TypeDouble" index="24" invalid="no">1.5000000000000000e+00</row><row type="TypeDouble" index="25" invalid="no">1.3999999999999999e+00</row><row type="TypeDouble" index="26" invalid="no">1.3000000000000000e+00</row><row type="TypeDouble" index="27" invalid="no">1.2000000000000000e+00</row><row type="TypeDouble" index="28" invalid="no">1.1000000000000001e+00</row><row type="TypeDouble" index="29" invalid="no">1.1000000000000001e+00</row><row type="TypeDouble" index="30" invalid="no">1.0000000000000000e+00</row><row type="TypeDouble" index="31" invalid="no">9.0000000000000002e-01</row><row type="TypeDouble" index="32" invalid="no">9.0000000000000002e-01</row><row type="TypeDouble" index="33" invalid="no">8.0000000000000004e-01</row><row type="TypeDouble" index="34" invalid="no">8.0000000000000004e-01</row><row type="TypeDouble" index="35" invalid="no">8.0000000000000004e-01</row><row type="TypeDouble" index="36" invalid="no">6.9999999999999996e-01</row></column><column creation_time="2026-07-04 19:51:41:463" caption_spec="%n%C{ - }%c" name="Delta R" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-07-04 19:51:41:463" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-07-04 19:51:41:464" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="14" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="36">col(&quot;R&quot;)*0.008+2*0.1</formula><row type="TypeDouble" index="0" invalid="no">2.8880000000000000e-01</row><row type="TypeDouble" index="1" invalid="no">2.7840000000000004e-01</row><row type="TypeDouble" index="2" invalid="no">2.7040000000000003e-01</row><row type="TypeDouble" index="3" invalid="no">2.6400000000000001e-01</row><row type="TypeDouble" index="4" invalid="no">2.5840000000000002e-01</row><row type="TypeDouble" index="5" invalid="no">2.5359999999999999e-01</row><row type="TypeDouble" index="6" invalid="no">2.4960000000000002e-01</row><row type="TypeDouble" index="7" invalid="no">2.4560000000000001e-01</row><row type="TypeDouble" index="8" invalid="no">2.4240000000000000e-01</row><row type="TypeDouble" index="9" invalid="no">2.3920000000000002e-01</row><row type="TypeDouble" index="10" invalid="no">2.3680000000000001e-01</row><row type="TypeDouble" index="11" invalid="no">2.3360000000000003e-01</row><row type="TypeDouble" index="12" invalid="no">2.3120000000000002e-01</row><row type="TypeDouble" index="13" invalid="no">2.2880000000000000e-01</row><row type="TypeDouble" index="14" invalid="no">2.2720000000000001e-01</row><row type="TypeDouble" index="15" invalid="no">2.2480000000000000e-01</row><row type="TypeDouble" index="16" invalid="no">2.2320000000000001e-01</row><row type="TypeDouble" index="17" invalid="no">2.2080000000000002e-01</row><row type="TypeDouble" index="18" invalid="no">2.1920000000000001e-01</row><row type="TypeDouble" index="19" invalid="no">2.1760000000000002e-01</row><row type="TypeDouble" index="20" invalid="no">2.1600000000000003e-01</row><row type="TypeDouble" index="21" invalid="no">2.1520000000000000e-01</row><row type="TypeDouble" index="22" invalid="no">2.1440000000000001e-01</row><row type="TypeDouble" index="23" invalid="no">2.1280000000000002e-01</row><row type="TypeDouble" index="24" invalid="no">2.1200000000000002e-01</row><row type="TypeDouble" index="25" invalid="no">2.1120000000000000e-01</row><row type="TypeDouble" index="26" invalid="no">2.1040000000000000e-01</row><row type="TypeDouble" index="27" invalid="no">2.0960000000000001e-01</row><row type="TypeDouble" index="28" invalid="no">2.0880000000000001e-01</row><row type="TypeDouble" index="29" invalid="no">2.0880000000000001e-01</row><row type="TypeDouble" index="30" invalid="no">2.0800000000000002e-01</row><row type="TypeDouble" index="31" invalid="no">2.0720000000000002e-01</row><row type="TypeDouble" index="32" invalid="no">2.0720000000000002e-01</row><row type="TypeDouble" index="33" invalid="no">2.0640000000000000e-01</row><row type="TypeDouble" index="34" invalid="no">2.0640000000000000e-01</row><row type="TypeDouble" index="35" invalid="no">2.0640000000000000e-01</row><row type="TypeDouble" index="36" invalid="no">2.0560000000000000e-01</row></column><column creation_time="2026-07-04 19:01:06:052" caption_spec="%n%C{ - }%c" name="U" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-07-04 19:01:06:052" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-07-04 19:01:06:052" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">8.9500000000000002e-01</row><row type="TypeDouble" index="1" invalid="no">1.0669999999999999e+00</row><row type="TypeDouble" index="2" invalid="no">1.1870000000000001e+00</row><row type="TypeDouble" index="3" invalid="no">1.2789999999999999e+00</row><row type="TypeDouble" index="4" invalid="no">1.3830000000000000e+00</row><row type="TypeDouble" index="5" invalid="no">1.4780000000000000e+00</row><row type="TypeDouble" index="6" invalid="no">1.5569999999999999e+00</row><row type="TypeDouble" index="7" invalid="no">1.6250000000000000e+00</row><row type="TypeDouble" index="8" invalid="no">1.7250000000000001e+00</row><row type="TypeDouble" index="9" invalid="no">1.8089999999999999e+00</row><row type="TypeDouble" index="10" invalid="no">1.8890000000000000e+00</row><row type="TypeDouble" index="11" invalid="no">1.9730000000000001e+00</row><row type="TypeDouble" index="12" invalid="no">2.0560000000000000e+00</row><row type="TypeDouble" index="13" invalid="no">2.1429999999999998e+00</row><row type="TypeDouble" index="14" invalid="no">2.2300000000000000e+00</row><row type="TypeDouble" index="15" invalid="no">2.3230000000000000e+00</row><row type="TypeDouble" index="16" invalid="no">2.4180000000000001e+00</row><row type="TypeDouble" index="17" invalid="no">2.5179999999999998e+00</row><row type="TypeDouble" index="18" invalid="no">2.6139999999999999e+00</row><row type="TypeDouble" index="19" invalid="no">2.7180000000000000e+00</row><row type="TypeDouble" index="20" invalid="no">2.8359999999999999e+00</row><row type="TypeDouble" index="21" invalid="no">2.9190000000000000e+00</row><row type="TypeDouble" index="22" invalid="no">3.0150000000000001e+00</row><row type="TypeDouble" index="23" invalid="no">3.1080000000000001e+00</row><row type="TypeDouble" index="24" invalid="no">3.2029999999999998e+00</row><row type="TypeDouble" index="25" invalid="no">3.3020000000000000e+00</row><row type="TypeDouble" index="26" invalid="no">3.4159999999999999e+00</row><row type="TypeDouble" index="27" invalid="no">3.5000000000000000e+00</row><row type="TypeDouble" index="28" invalid="no">3.6499999999999999e+00</row><row type="TypeDouble" index="29" invalid="no">3.7080000000000002e+00</row><row type="TypeDouble" index="30" invalid="no">3.7730000000000001e+00</row><row type="TypeDouble" index="31" invalid="no">3.8679999999999999e+00</row><row type="TypeDouble" index="32" invalid="no">3.9480000000000000e+00</row><row type="TypeDouble" index="33" invalid="no">4.0259999999999998e+00</row><row type="TypeDouble" index="34" invalid="no">4.0890000000000004e+00</row><row type="TypeDouble" index="35" invalid="no">4.1559999999999997e+00</row><row type="TypeDouble" index="36" invalid="no">4.2020000000000000e+00</row></column><column creation_time="2026-07-04 19:18:18:958" caption_spec="%n%C{ - }%c" name="Delta U" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-07-04 19:18:18:958" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-07-04 19:18:18:958" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="14" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="36">col(&quot;U&quot;)*0.0006+60*0.001</formula><row type="TypeDouble" index="0" invalid="no">6.0537000000000001e-02</row><row type="TypeDouble" index="1" invalid="no">6.0640199999999998e-02</row><row type="TypeDouble" index="2" invalid="no">6.0712200000000001e-02</row><row type="TypeDouble" index="3" invalid="no">6.0767399999999999e-02</row><row type="TypeDouble" index="4" invalid="no">6.0829799999999996e-02</row><row type="TypeDouble" index="5" invalid="no">6.0886799999999998e-02</row><row type="TypeDouble" index="6" invalid="no">6.0934200000000001e-02</row><row type="TypeDouble" index="7" invalid="no">6.0974999999999994e-02</row><row type="TypeDouble" index="8" invalid="no">6.1034999999999999e-02</row><row type="TypeDouble" index="9" invalid="no">6.1085399999999998e-02</row><row type="TypeDouble" index="10" invalid="no">6.1133399999999997e-02</row><row type="TypeDouble" index="11" invalid="no">6.1183799999999997e-02</row><row type="TypeDouble" index="12" invalid="no">6.1233599999999999e-02</row><row type="TypeDouble" index="13" invalid="no">6.1285799999999994e-02</row><row type="TypeDouble" index="14" invalid="no">6.1337999999999997e-02</row><row type="TypeDouble" index="15" invalid="no">6.1393799999999998e-02</row><row type="TypeDouble" index="16" invalid="no">6.1450800000000000e-02</row><row type="TypeDouble" index="17" invalid="no">6.1510799999999997e-02</row><row type="TypeDouble" index="18" invalid="no">6.1568399999999995e-02</row><row type="TypeDouble" index="19" invalid="no">6.1630799999999999e-02</row><row type="TypeDouble" index="20" invalid="no">6.1701599999999995e-02</row><row type="TypeDouble" index="21" invalid="no">6.1751399999999998e-02</row><row type="TypeDouble" index="22" invalid="no">6.1808999999999996e-02</row><row type="TypeDouble" index="23" invalid="no">6.1864799999999998e-02</row><row type="TypeDouble" index="24" invalid="no">6.1921799999999999e-02</row><row type="TypeDouble" index="25" invalid="no">6.1981200000000000e-02</row><row type="TypeDouble" index="26" invalid="no">6.2049599999999996e-02</row><row type="TypeDouble" index="27" invalid="no">6.2099999999999995e-02</row><row type="TypeDouble" index="28" invalid="no">6.2189999999999995e-02</row><row type="TypeDouble" index="29" invalid="no">6.2224799999999997e-02</row><row type="TypeDouble" index="30" invalid="no">6.2263799999999994e-02</row><row type="TypeDouble" index="31" invalid="no">6.2320799999999996e-02</row><row type="TypeDouble" index="32" invalid="no">6.2368799999999995e-02</row><row type="TypeDouble" index="33" invalid="no">6.2415599999999995e-02</row><row type="TypeDouble" index="34" invalid="no">6.2453399999999999e-02</row><row type="TypeDouble" index="35" invalid="no">6.2493599999999996e-02</row><row type="TypeDouble" index="36" invalid="no">6.2521199999999999e-02</row></column><column creation_time="2026-07-04 22:08:39:463" caption_spec="%n%C{ - }%c" name="T kelw" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-07-04 22:08:39:463" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-07-04 22:08:39:463" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="14" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="36">273.15+col(&quot;T&quot;)</formula><row type="TypeDouble" index="0" invalid="no">2.9514999999999998e+02</row><row type="TypeDouble" index="1" invalid="no">2.9714999999999998e+02</row><row type="TypeDouble" index="2" invalid="no">2.9914999999999998e+02</row><row type="TypeDouble" index="3" invalid="no">3.0114999999999998e+02</row><row type="TypeDouble" index="4" invalid="no">3.0314999999999998e+02</row><row type="TypeDouble" index="5" invalid="no">3.0514999999999998e+02</row><row type="TypeDouble" index="6" invalid="no">3.0714999999999998e+02</row><row type="TypeDouble" index="7" invalid="no">3.0914999999999998e+02</row><row type="TypeDouble" index="8" invalid="no">3.1114999999999998e+02</row><row type="TypeDouble" index="9" invalid="no">3.1314999999999998e+02</row><row type="TypeDouble" index="10" invalid="no">3.1514999999999998e+02</row><row type="TypeDouble" index="11" invalid="no">3.1714999999999998e+02</row><row type="TypeDouble" index="12" invalid="no">3.1914999999999998e+02</row><row type="TypeDouble" index="13" invalid="no">3.2114999999999998e+02</row><row type="TypeDouble" index="14" invalid="no">3.2314999999999998e+02</row><row type="TypeDouble" index="15" invalid="no">3.2514999999999998e+02</row><row type="TypeDouble" index="16" invalid="no">3.2714999999999998e+02</row><row type="TypeDouble" index="17" invalid="no">3.2914999999999998e+02</row><row type="TypeDouble" index="18" invalid="no">3.3114999999999998e+02</row><row type="TypeDouble" index="19" invalid="no">3.3314999999999998e+02</row><row type="TypeDouble" index="20" invalid="no">3.3514999999999998e+02</row><row type="TypeDouble" index="21" invalid="no">3.3714999999999998e+02</row><row type="TypeDouble" index="22" invalid="no">3.3914999999999998e+02</row><row type="TypeDouble" index="23" invalid="no">3.4114999999999998e+02</row><row type="TypeDouble" index="24" invalid="no">3.4314999999999998e+02</row><row type="TypeDouble" index="25" invalid="no">3.4514999999999998e+02</row><row type="TypeDouble" index="26" invalid="no">3.4714999999999998e+02</row><row type="TypeDouble" index="27" invalid="no">3.4914999999999998e+02</row><row type="TypeDouble" index="28" invalid="no">3.5114999999999998e+02</row><row type="TypeDouble" index="29" invalid="no">3.5314999999999998e+02</row><row type="TypeDouble" index="30" invalid="no">3.5514999999999998e+02</row><row type="TypeDouble" index="31" invalid="no">3.5714999999999998e+02</row><row type="TypeDouble" index="32" invalid="no">3.5914999999999998e+02</row><row type="TypeDouble" index="33" invalid="no">3.6114999999999998e+02</row><row type="TypeDouble" index="34" invalid="no">3.6314999999999998e+02</row><row type="TypeDouble" index="35" invalid="no">3.6514999999999998e+02</row><row type="TypeDouble" index="36" invalid="no">3.6714999999999998e+02</row></column><column creation_time="2026-07-04 22:10:18:756" caption_spec="%n%C{ - }%c" name="lnR" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-07-04 22:10:18:756" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-07-04 22:10:18:756" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="14" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="36">ln(col(&quot;R&quot;))</formula><row type="TypeDouble" index="0" invalid="no">2.4069451083182885e+00</row><row type="TypeDouble" index="1" invalid="no">2.2823823856765264e+00</row><row type="TypeDouble" index="2" invalid="no">2.1747517214841610e+00</row><row type="TypeDouble" index="3" invalid="no">2.0794415416798357e+00</row><row type="TypeDouble" index="4" invalid="no">1.9878743481543455e+00</row><row type="TypeDouble" index="5" invalid="no">1.9021075263969205e+00</row><row type="TypeDouble" index="6" invalid="no">1.8245492920510460e+00</row><row type="TypeDouble" index="7" invalid="no">1.7404661748405046e+00</row><row type="TypeDouble" index="8" invalid="no">1.6677068205580761e+00</row><row type="TypeDouble" index="9" invalid="no">1.5892352051165810e+00</row><row type="TypeDouble" index="10" invalid="no">1.5260563034950492e+00</row><row type="TypeDouble" index="11" invalid="no">1.4350845252893227e+00</row><row type="TypeDouble" index="12" invalid="no">1.3609765531356006e+00</row><row type="TypeDouble" index="13" invalid="no">1.2809338454620642e+00</row><row type="TypeDouble" index="14" invalid="no">1.2237754316221157e+00</row><row type="TypeDouble" index="15" invalid="no">1.1314021114911006e+00</row><row type="TypeDouble" index="16" invalid="no">1.0647107369924282e+00</row><row type="TypeDouble" index="17" invalid="no">9.5551144502743635e-01</row><row type="TypeDouble" index="18" invalid="no">8.7546873735389985e-01</row><row type="TypeDouble" index="19" invalid="no">7.8845736036427028e-01</row><row type="TypeDouble" index="20" invalid="no">6.9314718055994529e-01</row><row type="TypeDouble" index="21" invalid="no">6.4185388617239469e-01</row><row type="TypeDouble" index="22" invalid="no">5.8778666490211906e-01</row><row type="TypeDouble" index="23" invalid="no">4.7000362924573563e-01</row><row type="TypeDouble" index="24" invalid="no">4.0546510810816438e-01</row><row type="TypeDouble" index="25" invalid="no">3.3647223662121289e-01</row><row type="TypeDouble" index="26" invalid="no">2.6236426446749106e-01</row><row type="TypeDouble" index="27" invalid="no">1.8232155679395459e-01</row><row type="TypeDouble" index="28" invalid="no">9.5310179804324935e-02</row><row type="TypeDouble" index="29" invalid="no">9.5310179804324935e-02</row><row type="TypeDouble" index="30" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="31" invalid="no">-1.0536051565782628e-01</row><row type="TypeDouble" index="32" invalid="no">-1.0536051565782628e-01</row><row type="TypeDouble" index="33" invalid="no">-2.2314355131420971e-01</row><row type="TypeDouble" index="34" invalid="no">-2.2314355131420971e-01</row><row type="TypeDouble" index="35" invalid="no">-2.2314355131420971e-01</row><row type="TypeDouble" index="36" invalid="no">-3.5667494393873245e-01</row></column><column creation_time="2026-08-04 11:33:28:399" caption_spec="%n%C{ - }%c" name="Delta ln(R)" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-08-04 11:33:28:399" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-08-04 11:33:28:399" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="36">col(&quot;Delta R&quot;)/sqrt(3)*1/col(&quot;R&quot;)</formula><row type="TypeDouble" index="0" invalid="no">1.5021509706483237e-02</row><row type="TypeDouble" index="1" invalid="no">1.6401460708407329e-02</row><row type="TypeDouble" index="2" invalid="no">1.7740399180553958e-02</row><row type="TypeDouble" index="3" invalid="no">1.9052558883257652e-02</row><row type="TypeDouble" index="4" invalid="no">2.0436617747753332e-02</row><row type="TypeDouble" index="5" invalid="no">2.1853138547237177e-02</row><row type="TypeDouble" index="6" invalid="no">2.3243004385440420e-02</row><row type="TypeDouble" index="7" invalid="no">2.4876706335609140e-02</row><row type="TypeDouble" index="8" invalid="no">2.6405604764446283e-02</row><row type="TypeDouble" index="9" invalid="no">2.8184119263297652e-02</row><row type="TypeDouble" index="10" invalid="no">2.9720987770457261e-02</row><row type="TypeDouble" index="11" invalid="no">3.2111672114927763e-02</row><row type="TypeDouble" index="12" invalid="no">3.4226508265805512e-02</row><row type="TypeDouble" index="13" invalid="no">3.6693817108496216e-02</row><row type="TypeDouble" index="14" invalid="no">3.8580582694083231e-02</row><row type="TypeDouble" index="15" invalid="no">4.1867206617363831e-02</row><row type="TypeDouble" index="16" invalid="no">4.4436062097629132e-02</row><row type="TypeDouble" index="17" invalid="no">4.9030361321949767e-02</row><row type="TypeDouble" index="18" invalid="no">5.2731324585985825e-02</row><row type="TypeDouble" index="19" invalid="no">5.7105190261664815e-02</row><row type="TypeDouble" index="20" invalid="no">6.2353829072479591e-02</row><row type="TypeDouble" index="21" invalid="no">6.5392514699793416e-02</row><row type="TypeDouble" index="22" invalid="no">6.8768832063475421e-02</row><row type="TypeDouble" index="23" invalid="no">7.6787585802220240e-02</row><row type="TypeDouble" index="24" invalid="no">8.1598838045467123e-02</row><row type="TypeDouble" index="25" invalid="no">8.7097412037749275e-02</row><row type="TypeDouble" index="26" invalid="no">9.3441920490382510e-02</row><row type="TypeDouble" index="27" invalid="no">1.0084384701845464e-01</row><row type="TypeDouble" index="28" invalid="no">1.0959157836981261e-01</row><row type="TypeDouble" index="29" invalid="no">1.0959157836981261e-01</row><row type="TypeDouble" index="30" invalid="no">1.2008885599144217e-01</row><row type="TypeDouble" index="31" invalid="no">1.3291886197343386e-01</row><row type="TypeDouble" index="32" invalid="no">1.3291886197343386e-01</row><row type="TypeDouble" index="33" invalid="no">1.4895636945092344e-01</row><row type="TypeDouble" index="34" invalid="no">1.4895636945092344e-01</row><row type="TypeDouble" index="35" invalid="no">1.4895636945092344e-01</row><row type="TypeDouble" index="36" invalid="no">1.6957602192198154e-01</row></column><column creation_time="2026-08-04 08:29:42:276" caption_spec="%n%C{ - }%c" name="1/T" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-08-04 08:29:42:276" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-08-04 08:29:42:276" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="36">1/col(&quot;T kelw&quot;)</formula><row type="TypeDouble" index="0" invalid="no">3.3881077418261903e-03</row><row type="TypeDouble" index="1" invalid="no">3.3653037186606094e-03</row><row type="TypeDouble" index="2" invalid="no">3.3428046130703662e-03</row><row type="TypeDouble" index="3" invalid="no">3.3206043499916988e-03</row><row type="TypeDouble" index="4" invalid="no">3.2986970146792020e-03</row><row type="TypeDouble" index="5" invalid="no">3.2770768474520728e-03</row><row type="TypeDouble" index="6" invalid="no">3.2557382386456130e-03</row><row type="TypeDouble" index="7" invalid="no">3.2346757237586934e-03</row><row type="TypeDouble" index="8" invalid="no">3.2138839787883662e-03</row><row type="TypeDouble" index="9" invalid="no">3.1933578157432542e-03</row><row type="TypeDouble" index="10" invalid="no">3.1730921783277807e-03</row><row type="TypeDouble" index="11" invalid="no">3.1530821377896896e-03</row><row type="TypeDouble" index="12" invalid="no">3.1333228889237038e-03</row><row type="TypeDouble" index="13" invalid="no">3.1138097462245057e-03</row><row type="TypeDouble" index="14" invalid="no">3.0945381401825778e-03</row><row type="TypeDouble" index="15" invalid="no">3.0755036137167465e-03</row><row type="TypeDouble" index="16" invalid="no">3.0567018187375823e-03</row><row type="TypeDouble" index="17" invalid="no">3.0381285128360932e-03</row><row type="TypeDouble" index="18" invalid="no">3.0197795560924054e-03</row><row type="TypeDouble" index="19" invalid="no">3.0016509079993999e-03</row><row type="TypeDouble" index="20" invalid="no">2.9837386244964941e-03</row><row type="TypeDouble" index="21" invalid="no">2.9660388551090021e-03</row><row type="TypeDouble" index="22" invalid="no">2.9485478401887074e-03</row><row type="TypeDouble" index="23" invalid="no">2.9312619082515023e-03</row><row type="TypeDouble" index="24" invalid="no">2.9141774734081308e-03</row><row type="TypeDouble" index="25" invalid="no">2.8972910328842532e-03</row><row type="TypeDouble" index="26" invalid="no">2.8805991646262425e-03</row><row type="TypeDouble" index="27" invalid="no">2.8640985249892598e-03</row><row type="TypeDouble" index="28" invalid="no">2.8477858465043430e-03</row><row type="TypeDouble" index="29" invalid="no">2.8316579357213650e-03</row><row type="TypeDouble" index="30" invalid="no">2.8157116711248768e-03</row><row type="TypeDouble" index="31" invalid="no">2.7999440011199778e-03</row><row type="TypeDouble" index="32" invalid="no">2.7843519420854800e-03</row><row type="TypeDouble" index="33" invalid="no">2.7689325764917627e-03</row><row type="TypeDouble" index="34" invalid="no">2.7536830510808208e-03</row><row type="TypeDouble" index="35" invalid="no">2.7386005751061210e-03</row><row type="TypeDouble" index="36" invalid="no">2.7236824186299877e-03</row></column><column creation_time="2026-08-04 08:29:34:532" caption_spec="%n%C{ - }%c" name="Delta 1/T" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-08-04 08:29:34:532" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-08-04 08:29:34:532" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="36">col(&quot;Delta T&quot;)/sqrt(3)*(col(&quot;1/T&quot;)^2)</formula><row type="TypeDouble" index="0" invalid="no">1.3255123949088980e-06</row><row type="TypeDouble" index="1" invalid="no">1.3077294348803982e-06</row><row type="TypeDouble" index="2" invalid="no">1.2903019509974921e-06</row><row type="TypeDouble" index="3" invalid="no">1.2732205315224637e-06</row><row type="TypeDouble" index="4" invalid="no">1.2564760741547436e-06</row><row type="TypeDouble" index="5" invalid="no">1.2400597739023722e-06</row><row type="TypeDouble" index="6" invalid="no">1.2239631115044786e-06</row><row type="TypeDouble" index="7" invalid="no">1.2081778423763412e-06</row><row type="TypeDouble" index="8" invalid="no">1.1926959860502581e-06</row><row type="TypeDouble" index="9" invalid="no">1.1775098160869638e-06</row><row type="TypeDouble" index="10" invalid="no">1.1626118504337875e-06</row><row type="TypeDouble" index="11" invalid="no">1.1479948422070807e-06</row><row type="TypeDouble" index="12" invalid="no">1.1336517708777167e-06</row><row type="TypeDouble" index="13" invalid="no">1.1195758338396381e-06</row><row type="TypeDouble" index="14" invalid="no">1.1057604383425502e-06</row><row type="TypeDouble" index="15" invalid="no">1.0921991937708938e-06</row><row type="TypeDouble" index="16" invalid="no">1.0788859042522158e-06</row><row type="TypeDouble" index="17" invalid="no">1.0658145615789737e-06</row><row type="TypeDouble" index="18" invalid="no">1.0529793384286753e-06</row><row type="TypeDouble" index="19" invalid="no">1.0403745818680705e-06</row><row type="TypeDouble" index="20" invalid="no">1.0279948071278739e-06</row><row type="TypeDouble" index="21" invalid="no">1.0158346916352199e-06</row><row type="TypeDouble" index="22" invalid="no">1.0038890692917235e-06</row><row type="TypeDouble" index="23" invalid="no">9.9215292498566674e-07</row><row type="TypeDouble" index="24" invalid="no">9.8062138932742414e-07</row><row type="TypeDouble" index="25" invalid="no">9.6928973359780547e-07</row><row type="TypeDouble" index="26" invalid="no">9.5815336489953778e-07</row><row type="TypeDouble" index="27" invalid="no">9.4720782150259738e-07</row><row type="TypeDouble" index="28" invalid="no">9.3644876837459146e-07</row><row type="TypeDouble" index="29" invalid="no">9.2587199288782112e-07</row><row type="TypeDouble" index="30" invalid="no">9.1547340069509708e-07</row><row type="TypeDouble" index="31" invalid="no">9.0524901176676307e-07</row><row type="TypeDouble" index="32" invalid="no">8.9519495658176768e-07</row><row type="TypeDouble" index="33" invalid="no">8.8530747246598016e-07</row><row type="TypeDouble" index="34" invalid="no">8.7558290007127755e-07</row><row type="TypeDouble" index="35" invalid="no">8.6601767998925552e-07</row><row type="TypeDouble" index="36" invalid="no">8.5660834949370807e-07</row></column><column creation_time="2026-30-04 21:59:28:471" caption_spec="%n%C{ - }%c" name="U przesuniete" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-30-04 21:59:28:471" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-30-04 21:59:28:471" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="36">col(&quot;U&quot;)-2.638</formula><row type="TypeDouble" index="0" invalid="no">-1.7429999999999999e+00</row><row type="TypeDouble" index="1" invalid="no">-1.5710000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">-1.4509999999999998e+00</row><row type="TypeDouble" index="3" invalid="no">-1.3590000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">-1.2549999999999999e+00</row><row type="TypeDouble" index="5" invalid="no">-1.1599999999999999e+00</row><row type="TypeDouble" index="6" invalid="no">-1.0810000000000000e+00</row><row type="TypeDouble" index="7" invalid="no">-1.0129999999999999e+00</row><row type="TypeDouble" index="8" invalid="no">-9.1299999999999981e-01</row><row type="TypeDouble" index="9" invalid="no">-8.2899999999999996e-01</row><row type="TypeDouble" index="10" invalid="no">-7.4899999999999989e-01</row><row type="TypeDouble" index="11" invalid="no">-6.6499999999999981e-01</row><row type="TypeDouble" index="12" invalid="no">-5.8199999999999985e-01</row><row type="TypeDouble" index="13" invalid="no">-4.9500000000000011e-01</row><row type="TypeDouble" index="14" invalid="no">-4.0799999999999992e-01</row><row type="TypeDouble" index="15" invalid="no">-3.1499999999999995e-01</row><row type="TypeDouble" index="16" invalid="no">-2.1999999999999975e-01</row><row type="TypeDouble" index="17" invalid="no">-1.2000000000000011e-01</row><row type="TypeDouble" index="18" invalid="no">-2.4000000000000021e-02</row><row type="TypeDouble" index="19" invalid="no">8.0000000000000071e-02</row><row type="TypeDouble" index="20" invalid="no">1.9799999999999995e-01</row><row type="TypeDouble" index="21" invalid="no">2.8100000000000014e-01</row><row type="TypeDouble" index="22" invalid="no">3.7700000000000022e-01</row><row type="TypeDouble" index="23" invalid="no">4.7000000000000020e-01</row><row type="TypeDouble" index="24" invalid="no">5.6499999999999995e-01</row><row type="TypeDouble" index="25" invalid="no">6.6400000000000015e-01</row><row type="TypeDouble" index="26" invalid="no">7.7800000000000002e-01</row><row type="TypeDouble" index="27" invalid="no">8.6200000000000010e-01</row><row type="TypeDouble" index="28" invalid="no">1.0120000000000000e+00</row><row type="TypeDouble" index="29" invalid="no">1.0700000000000003e+00</row><row type="TypeDouble" index="30" invalid="no">1.1350000000000002e+00</row><row type="TypeDouble" index="31" invalid="no">1.2300000000000000e+00</row><row type="TypeDouble" index="32" invalid="no">1.3100000000000001e+00</row><row type="TypeDouble" index="33" invalid="no">1.3879999999999999e+00</row><row type="TypeDouble" index="34" invalid="no">1.4510000000000005e+00</row><row type="TypeDouble" index="35" invalid="no">1.5179999999999998e+00</row><row type="TypeDouble" index="36" invalid="no">1.5640000000000001e+00</row></column><column creation_time="2026-01-05 11:43:49:821" caption_spec="%n%C{ - }%c" name="T_0" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-01-05 11:43:49:822" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-01-05 11:43:49:822" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="36">0</formula><row type="TypeDouble" index="0" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="5" invalid="no">9.1168231491459084e-01</row><row type="TypeDouble" index="6" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="7" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="8" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="9" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="10" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="11" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="12" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="13" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="14" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="15" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="16" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="17" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="18" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="19" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="20" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="21" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="22" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="23" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="24" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="25" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="26" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="27" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="28" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="29" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="30" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="31" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="32" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="33" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="34" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="35" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="36" invalid="no">0.0000000000000000e+00</row></column><column creation_time="2026-01-05 12:52:16:609" caption_spec="%n%C{ - }%c" name="Delta T_0" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-01-05 12:52:16:609" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-01-05 12:52:16:609" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="36">sqrt((2,36)^2+(0)^2)</formula><row type="TypeDouble" index="0" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="2" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="3" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="4" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="5" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="6" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="7" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="8" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="9" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="10" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="11" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="12" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="13" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="14" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="15" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="16" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="17" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="18" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="19" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="20" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="21" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="22" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="23" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="24" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="25" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="26" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="27" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="28" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="29" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="30" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="31" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="32" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="33" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="34" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="35" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="36" invalid="yes">0.0000000000000000e+00</row></column><column creation_time="2026-17-04 07:32:54:814" caption_spec="%n%C{ - }%c" name="T przesuniete" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-17-04 07:32:54:814" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-17-04 07:32:54:814" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="36">col(&quot;T&quot;)-58</formula><row type="TypeDouble" index="0" invalid="no">-3.6000000000000000e+01</row><row type="TypeDouble" index="1" invalid="no">-3.4000000000000000e+01</row><row type="TypeDouble" index="2" invalid="no">-3.2000000000000000e+01</row><row type="TypeDouble" index="3" invalid="no">-3.0000000000000000e+01</row><row type="TypeDouble" index="4" invalid="no">-2.8000000000000000e+01</row><row type="TypeDouble" index="5" invalid="no">-2.6000000000000000e+01</row><row type="TypeDouble" index="6" invalid="no">-2.4000000000000000e+01</row><row type="TypeDouble" index="7" invalid="no">-2.2000000000000000e+01</row><row type="TypeDouble" index="8" invalid="no">-2.0000000000000000e+01</row><row type="TypeDouble" index="9" invalid="no">-1.8000000000000000e+01</row><row type="TypeDouble" index="10" invalid="no">-1.6000000000000000e+01</row><row type="TypeDouble" index="11" invalid="no">-1.4000000000000000e+01</row><row type="TypeDouble" index="12" invalid="no">-1.2000000000000000e+01</row><row type="TypeDouble" index="13" invalid="no">-1.0000000000000000e+01</row><row type="TypeDouble" index="14" invalid="no">-8.0000000000000000e+00</row><row type="TypeDouble" index="15" invalid="no">-6.0000000000000000e+00</row><row type="TypeDouble" index="16" invalid="no">-4.0000000000000000e+00</row><row type="TypeDouble" index="17" invalid="no">-2.0000000000000000e+00</row><row type="TypeDouble" index="18" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="19" invalid="no">2.0000000000000000e+00</row><row type="TypeDouble" index="20" invalid="no">4.0000000000000000e+00</row><row type="TypeDouble" index="21" invalid="no">6.0000000000000000e+00</row><row type="TypeDouble" index="22" invalid="no">8.0000000000000000e+00</row><row type="TypeDouble" index="23" invalid="no">1.0000000000000000e+01</row><row type="TypeDouble" index="24" invalid="no">1.2000000000000000e+01</row><row type="TypeDouble" index="25" invalid="no">1.4000000000000000e+01</row><row type="TypeDouble" index="26" invalid="no">1.6000000000000000e+01</row><row type="TypeDouble" index="27" invalid="no">1.8000000000000000e+01</row><row type="TypeDouble" index="28" invalid="no">2.0000000000000000e+01</row><row type="TypeDouble" index="29" invalid="no">2.2000000000000000e+01</row><row type="TypeDouble" index="30" invalid="no">2.4000000000000000e+01</row><row type="TypeDouble" index="31" invalid="no">2.6000000000000000e+01</row><row type="TypeDouble" index="32" invalid="no">2.8000000000000000e+01</row><row type="TypeDouble" index="33" invalid="no">3.0000000000000000e+01</row><row type="TypeDouble" index="34" invalid="no">3.2000000000000000e+01</row><row type="TypeDouble" index="35" invalid="no">3.4000000000000000e+01</row><row type="TypeDouble" index="36" invalid="no">3.6000000000000000e+01</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width><column_width column="2">120</column_width><column_width column="3">120</column_width><column_width column="4">120</column_width><column_width column="5">120</column_width><column_width column="6">120</column_width><column_width column="7">401</column_width><column_width column="8">120</column_width><column_width column="9">120</column_width><column_width column="10">120</column_width><column_width column="11">120</column_width><column_width column="12">120</column_width><column_width column="13">120</column_width><column_width column="14">120</column_width></table>
+geometry	392	613	196	24	minimized	
+
+</table>
+<table>
+45154
+<table creation_time="2026-08-04 09:46:17:000" caption_spec="%n%C{ - }%c" name="Tabela3" columns="15" rows="35"><comment><![CDATA[/home/macko/studia/sem2/1pf/c1/chlodzenie.csv]]></comment><column creation_time="2026-08-04 09:46:17:833" caption_spec="%n%C{ - }%c" name="T" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-08-04 09:46:17:833" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-08-04 09:46:17:833" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">9.4000000000000000e+01</row><row type="TypeDouble" index="1" invalid="no">9.2000000000000000e+01</row><row type="TypeDouble" index="2" invalid="no">9.0000000000000000e+01</row><row type="TypeDouble" index="3" invalid="no">8.8000000000000000e+01</row><row type="TypeDouble" index="4" invalid="no">8.6000000000000000e+01</row><row type="TypeDouble" index="5" invalid="no">8.4000000000000000e+01</row><row type="TypeDouble" index="6" invalid="no">8.2000000000000000e+01</row><row type="TypeDouble" index="7" invalid="no">8.0000000000000000e+01</row><row type="TypeDouble" index="8" invalid="no">7.8000000000000000e+01</row><row type="TypeDouble" index="9" invalid="no">7.6000000000000000e+01</row><row type="TypeDouble" index="10" invalid="no">7.4000000000000000e+01</row><row type="TypeDouble" index="11" invalid="no">7.2000000000000000e+01</row><row type="TypeDouble" index="12" invalid="no">7.0000000000000000e+01</row><row type="TypeDouble" index="13" invalid="no">6.8000000000000000e+01</row><row type="TypeDouble" index="14" invalid="no">6.6000000000000000e+01</row><row type="TypeDouble" index="15" invalid="no">6.4000000000000000e+01</row><row type="TypeDouble" index="16" invalid="no">6.2000000000000000e+01</row><row type="TypeDouble" index="17" invalid="no">6.0000000000000000e+01</row><row type="TypeDouble" index="18" invalid="no">5.8000000000000000e+01</row><row type="TypeDouble" index="19" invalid="no">5.6000000000000000e+01</row><row type="TypeDouble" index="20" invalid="no">5.4000000000000000e+01</row><row type="TypeDouble" index="21" invalid="no">5.2000000000000000e+01</row><row type="TypeDouble" index="22" invalid="no">5.0000000000000000e+01</row><row type="TypeDouble" index="23" invalid="no">4.8000000000000000e+01</row><row type="TypeDouble" index="24" invalid="no">4.6000000000000000e+01</row><row type="TypeDouble" index="25" invalid="no">4.4000000000000000e+01</row><row type="TypeDouble" index="26" invalid="no">4.2000000000000000e+01</row><row type="TypeDouble" index="27" invalid="no">4.0000000000000000e+01</row><row type="TypeDouble" index="28" invalid="no">3.8000000000000000e+01</row><row type="TypeDouble" index="29" invalid="no">3.6000000000000000e+01</row><row type="TypeDouble" index="30" invalid="no">3.4000000000000000e+01</row><row type="TypeDouble" index="31" invalid="no">3.2000000000000000e+01</row><row type="TypeDouble" index="32" invalid="no">3.0000000000000000e+01</row><row type="TypeDouble" index="33" invalid="no">2.8000000000000000e+01</row><row type="TypeDouble" index="34" invalid="no">2.6000000000000000e+01</row></column><column creation_time="2026-08-04 09:46:29:545" caption_spec="%n%C{ - }%c" name="Delta T" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-08-04 09:46:29:545" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-08-04 09:46:29:545" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="14" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="34">0.2</formula><row type="TypeDouble" index="0" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="1" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="2" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="3" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="4" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="5" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="6" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="7" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="8" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="9" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="10" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="11" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="12" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="13" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="14" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="15" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="16" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="17" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="18" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="19" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="20" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="21" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="22" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="23" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="24" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="25" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="26" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="27" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="28" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="29" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="30" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="31" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="32" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="33" invalid="no">2.0000000000000001e-01</row><row type="TypeDouble" index="34" invalid="no">2.0000000000000001e-01</row></column><column creation_time="2026-08-04 09:46:17:833" caption_spec="%n%C{ - }%c" name="R" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-08-04 09:46:17:833" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-08-04 09:46:17:833" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="14" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">6.9999999999999996e-01</row><row type="TypeDouble" index="1" invalid="no">8.0000000000000004e-01</row><row type="TypeDouble" index="2" invalid="no">8.0000000000000004e-01</row><row type="TypeDouble" index="3" invalid="no">9.0000000000000002e-01</row><row type="TypeDouble" index="4" invalid="no">8.0000000000000004e-01</row><row type="TypeDouble" index="5" invalid="no">1.0000000000000000e+00</row><row type="TypeDouble" index="6" invalid="no">1.0000000000000000e+00</row><row type="TypeDouble" index="7" invalid="no">1.1000000000000001e+00</row><row type="TypeDouble" index="8" invalid="no">1.2000000000000000e+00</row><row type="TypeDouble" index="9" invalid="no">1.3000000000000000e+00</row><row type="TypeDouble" index="10" invalid="no">1.3999999999999999e+00</row><row type="TypeDouble" index="11" invalid="no">1.5000000000000000e+00</row><row type="TypeDouble" index="12" invalid="no">1.6000000000000001e+00</row><row type="TypeDouble" index="13" invalid="no">1.7000000000000000e+00</row><row type="TypeDouble" index="14" invalid="no">1.8999999999999999e+00</row><row type="TypeDouble" index="15" invalid="no">2.0000000000000000e+00</row><row type="TypeDouble" index="16" invalid="no">2.2000000000000002e+00</row><row type="TypeDouble" index="17" invalid="no">2.3999999999999999e+00</row><row type="TypeDouble" index="18" invalid="no">2.6000000000000001e+00</row><row type="TypeDouble" index="19" invalid="no">2.7999999999999998e+00</row><row type="TypeDouble" index="20" invalid="no">3.1000000000000001e+00</row><row type="TypeDouble" index="21" invalid="no">3.2999999999999998e+00</row><row type="TypeDouble" index="22" invalid="no">3.6000000000000001e+00</row><row type="TypeDouble" index="23" invalid="no">3.8999999999999999e+00</row><row type="TypeDouble" index="24" invalid="no">4.2000000000000002e+00</row><row type="TypeDouble" index="25" invalid="no">4.5999999999999996e+00</row><row type="TypeDouble" index="26" invalid="no">4.9000000000000004e+00</row><row type="TypeDouble" index="27" invalid="no">5.2999999999999998e+00</row><row type="TypeDouble" index="28" invalid="no">5.7999999999999998e+00</row><row type="TypeDouble" index="29" invalid="no">6.2000000000000002e+00</row><row type="TypeDouble" index="30" invalid="no">6.7999999999999998e+00</row><row type="TypeDouble" index="31" invalid="no">7.4000000000000004e+00</row><row type="TypeDouble" index="32" invalid="no">8.0000000000000000e+00</row><row type="TypeDouble" index="33" invalid="no">8.6999999999999993e+00</row><row type="TypeDouble" index="34" invalid="no">9.5000000000000000e+00</row></column><column creation_time="2026-08-04 09:46:54:526" caption_spec="%n%C{ - }%c" name="Delta R" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-08-04 09:46:54:526" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-08-04 09:46:54:526" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="14" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="34">col(&quot;R&quot;)*0.008+2*0.1</formula><row type="TypeDouble" index="0" invalid="no">2.0560000000000000e-01</row><row type="TypeDouble" index="1" invalid="no">2.0640000000000000e-01</row><row type="TypeDouble" index="2" invalid="no">2.0640000000000000e-01</row><row type="TypeDouble" index="3" invalid="no">2.0720000000000002e-01</row><row type="TypeDouble" index="4" invalid="no">2.0640000000000000e-01</row><row type="TypeDouble" index="5" invalid="no">2.0800000000000002e-01</row><row type="TypeDouble" index="6" invalid="no">2.0800000000000002e-01</row><row type="TypeDouble" index="7" invalid="no">2.0880000000000001e-01</row><row type="TypeDouble" index="8" invalid="no">2.0960000000000001e-01</row><row type="TypeDouble" index="9" invalid="no">2.1040000000000000e-01</row><row type="TypeDouble" index="10" invalid="no">2.1120000000000000e-01</row><row type="TypeDouble" index="11" invalid="no">2.1200000000000002e-01</row><row type="TypeDouble" index="12" invalid="no">2.1280000000000002e-01</row><row type="TypeDouble" index="13" invalid="no">2.1360000000000001e-01</row><row type="TypeDouble" index="14" invalid="no">2.1520000000000000e-01</row><row type="TypeDouble" index="15" invalid="no">2.1600000000000003e-01</row><row type="TypeDouble" index="16" invalid="no">2.1760000000000002e-01</row><row type="TypeDouble" index="17" invalid="no">2.1920000000000001e-01</row><row type="TypeDouble" index="18" invalid="no">2.2080000000000002e-01</row><row type="TypeDouble" index="19" invalid="no">2.2240000000000001e-01</row><row type="TypeDouble" index="20" invalid="no">2.2480000000000000e-01</row><row type="TypeDouble" index="21" invalid="no">2.2640000000000002e-01</row><row type="TypeDouble" index="22" invalid="no">2.2880000000000000e-01</row><row type="TypeDouble" index="23" invalid="no">2.3120000000000002e-01</row><row type="TypeDouble" index="24" invalid="no">2.3360000000000003e-01</row><row type="TypeDouble" index="25" invalid="no">2.3680000000000001e-01</row><row type="TypeDouble" index="26" invalid="no">2.3920000000000002e-01</row><row type="TypeDouble" index="27" invalid="no">2.4240000000000000e-01</row><row type="TypeDouble" index="28" invalid="no">2.4640000000000001e-01</row><row type="TypeDouble" index="29" invalid="no">2.4960000000000002e-01</row><row type="TypeDouble" index="30" invalid="no">2.5440000000000002e-01</row><row type="TypeDouble" index="31" invalid="no">2.5919999999999999e-01</row><row type="TypeDouble" index="32" invalid="no">2.6400000000000001e-01</row><row type="TypeDouble" index="33" invalid="no">2.6960000000000001e-01</row><row type="TypeDouble" index="34" invalid="no">2.7600000000000002e-01</row></column><column creation_time="2026-08-04 09:46:17:834" caption_spec="%n%C{ - }%c" name="U" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-08-04 09:46:17:834" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-08-04 09:46:17:834" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="14" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">4.2020000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">4.1260000000000003e+00</row><row type="TypeDouble" index="2" invalid="no">4.0320000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">3.9369999999999998e+00</row><row type="TypeDouble" index="4" invalid="no">3.8300000000000001e+00</row><row type="TypeDouble" index="5" invalid="no">3.7100000000000000e+00</row><row type="TypeDouble" index="6" invalid="no">3.6320000000000001e+00</row><row type="TypeDouble" index="7" invalid="no">3.5209999999999999e+00</row><row type="TypeDouble" index="8" invalid="no">3.4260000000000002e+00</row><row type="TypeDouble" index="9" invalid="no">3.3279999999999998e+00</row><row type="TypeDouble" index="10" invalid="no">3.2240000000000002e+00</row><row type="TypeDouble" index="11" invalid="no">3.1200000000000001e+00</row><row type="TypeDouble" index="12" invalid="no">3.0200000000000000e+00</row><row type="TypeDouble" index="13" invalid="no">2.9169999999999998e+00</row><row type="TypeDouble" index="14" invalid="no">2.8170000000000002e+00</row><row type="TypeDouble" index="15" invalid="no">2.7130000000000001e+00</row><row type="TypeDouble" index="16" invalid="no">2.6139999999999999e+00</row><row type="TypeDouble" index="17" invalid="no">2.4809999999999999e+00</row><row type="TypeDouble" index="18" invalid="no">2.4119999999999999e+00</row><row type="TypeDouble" index="19" invalid="no">2.3130000000000002e+00</row><row type="TypeDouble" index="20" invalid="no">2.2060000000000000e+00</row><row type="TypeDouble" index="21" invalid="no">2.1139999999999999e+00</row><row type="TypeDouble" index="22" invalid="no">2.0150000000000001e+00</row><row type="TypeDouble" index="23" invalid="no">1.9239999999999999e+00</row><row type="TypeDouble" index="24" invalid="no">1.8470000000000000e+00</row><row type="TypeDouble" index="25" invalid="no">1.7580000000000000e+00</row><row type="TypeDouble" index="26" invalid="no">1.6759999999999999e+00</row><row type="TypeDouble" index="27" invalid="no">1.6960000000000000e+00</row><row type="TypeDouble" index="28" invalid="no">1.5040000000000000e+00</row><row type="TypeDouble" index="29" invalid="no">1.4379999999999999e+00</row><row type="TypeDouble" index="30" invalid="no">1.3440000000000001e+00</row><row type="TypeDouble" index="31" invalid="no">1.2720000000000000e+00</row><row type="TypeDouble" index="32" invalid="no">1.1850000000000001e+00</row><row type="TypeDouble" index="33" invalid="no">1.1110000000000000e+00</row><row type="TypeDouble" index="34" invalid="no">1.0369999999999999e+00</row></column><column creation_time="2026-08-04 09:49:26:916" caption_spec="%n%C{ - }%c" name="Delta U" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-08-04 09:49:26:916" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-08-04 09:49:26:916" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="14" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="34">col(&quot;U&quot;)*0.0006+60*0.001</formula><row type="TypeDouble" index="0" invalid="no">6.2521199999999999e-02</row><row type="TypeDouble" index="1" invalid="no">6.2475599999999999e-02</row><row type="TypeDouble" index="2" invalid="no">6.2419199999999994e-02</row><row type="TypeDouble" index="3" invalid="no">6.2362200000000000e-02</row><row type="TypeDouble" index="4" invalid="no">6.2297999999999999e-02</row><row type="TypeDouble" index="5" invalid="no">6.2225999999999997e-02</row><row type="TypeDouble" index="6" invalid="no">6.2179199999999997e-02</row><row type="TypeDouble" index="7" invalid="no">6.2112599999999997e-02</row><row type="TypeDouble" index="8" invalid="no">6.2055599999999995e-02</row><row type="TypeDouble" index="9" invalid="no">6.1996799999999998e-02</row><row type="TypeDouble" index="10" invalid="no">6.1934400000000001e-02</row><row type="TypeDouble" index="11" invalid="no">6.1871999999999996e-02</row><row type="TypeDouble" index="12" invalid="no">6.1811999999999999e-02</row><row type="TypeDouble" index="13" invalid="no">6.1750199999999998e-02</row><row type="TypeDouble" index="14" invalid="no">6.1690200000000001e-02</row><row type="TypeDouble" index="15" invalid="no">6.1627799999999996e-02</row><row type="TypeDouble" index="16" invalid="no">6.1568399999999995e-02</row><row type="TypeDouble" index="17" invalid="no">6.1488599999999997e-02</row><row type="TypeDouble" index="18" invalid="no">6.1447200000000000e-02</row><row type="TypeDouble" index="19" invalid="no">6.1387799999999999e-02</row><row type="TypeDouble" index="20" invalid="no">6.1323599999999999e-02</row><row type="TypeDouble" index="21" invalid="no">6.1268400000000001e-02</row><row type="TypeDouble" index="22" invalid="no">6.1209000000000000e-02</row><row type="TypeDouble" index="23" invalid="no">6.1154399999999998e-02</row><row type="TypeDouble" index="24" invalid="no">6.1108199999999994e-02</row><row type="TypeDouble" index="25" invalid="no">6.1054799999999999e-02</row><row type="TypeDouble" index="26" invalid="no">6.1005600000000000e-02</row><row type="TypeDouble" index="27" invalid="no">6.1017599999999998e-02</row><row type="TypeDouble" index="28" invalid="no">6.0902399999999995e-02</row><row type="TypeDouble" index="29" invalid="no">6.0862799999999995e-02</row><row type="TypeDouble" index="30" invalid="no">6.0806399999999997e-02</row><row type="TypeDouble" index="31" invalid="no">6.0763199999999996e-02</row><row type="TypeDouble" index="32" invalid="no">6.0711000000000001e-02</row><row type="TypeDouble" index="33" invalid="no">6.0666600000000001e-02</row><row type="TypeDouble" index="34" invalid="no">6.0622200000000001e-02</row></column><column creation_time="2026-08-04 09:58:14:304" caption_spec="%n%C{ - }%c" name="ln(R)" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-08-04 09:58:14:304" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-08-04 09:58:14:304" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="14" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="34">ln(col(&quot;R&quot;))</formula><row type="TypeDouble" index="0" invalid="no">-3.5667494393873245e-01</row><row type="TypeDouble" index="1" invalid="no">-2.2314355131420971e-01</row><row type="TypeDouble" index="2" invalid="no">-2.2314355131420971e-01</row><row type="TypeDouble" index="3" invalid="no">-1.0536051565782628e-01</row><row type="TypeDouble" index="4" invalid="no">-2.2314355131420971e-01</row><row type="TypeDouble" index="5" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="6" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="7" invalid="no">9.5310179804324935e-02</row><row type="TypeDouble" index="8" invalid="no">1.8232155679395459e-01</row><row type="TypeDouble" index="9" invalid="no">2.6236426446749106e-01</row><row type="TypeDouble" index="10" invalid="no">3.3647223662121289e-01</row><row type="TypeDouble" index="11" invalid="no">4.0546510810816438e-01</row><row type="TypeDouble" index="12" invalid="no">4.7000362924573563e-01</row><row type="TypeDouble" index="13" invalid="no">5.3062825106217038e-01</row><row type="TypeDouble" index="14" invalid="no">6.4185388617239469e-01</row><row type="TypeDouble" index="15" invalid="no">6.9314718055994529e-01</row><row type="TypeDouble" index="16" invalid="no">7.8845736036427028e-01</row><row type="TypeDouble" index="17" invalid="no">8.7546873735389985e-01</row><row type="TypeDouble" index="18" invalid="no">9.5551144502743635e-01</row><row type="TypeDouble" index="19" invalid="no">1.0296194171811581e+00</row><row type="TypeDouble" index="20" invalid="no">1.1314021114911006e+00</row><row type="TypeDouble" index="21" invalid="no">1.1939224684724346e+00</row><row type="TypeDouble" index="22" invalid="no">1.2809338454620642e+00</row><row type="TypeDouble" index="23" invalid="no">1.3609765531356006e+00</row><row type="TypeDouble" index="24" invalid="no">1.4350845252893227e+00</row><row type="TypeDouble" index="25" invalid="no">1.5260563034950492e+00</row><row type="TypeDouble" index="26" invalid="no">1.5892352051165810e+00</row><row type="TypeDouble" index="27" invalid="no">1.6677068205580761e+00</row><row type="TypeDouble" index="28" invalid="no">1.7578579175523736e+00</row><row type="TypeDouble" index="29" invalid="no">1.8245492920510460e+00</row><row type="TypeDouble" index="30" invalid="no">1.9169226121820611e+00</row><row type="TypeDouble" index="31" invalid="no">2.0014800002101243e+00</row><row type="TypeDouble" index="32" invalid="no">2.0794415416798357e+00</row><row type="TypeDouble" index="33" invalid="no">2.1633230256605378e+00</row><row type="TypeDouble" index="34" invalid="no">2.2512917986064953e+00</row></column><column creation_time="2026-08-04 09:58:10:010" caption_spec="%n%C{ - }%c" name="1/T" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-08-04 09:58:10:011" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-08-04 09:58:10:011" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="14" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="34">1/col(&quot;T kelw&quot;)</formula><row type="TypeDouble" index="0" invalid="no">2.7236824186299877e-03</row><row type="TypeDouble" index="1" invalid="no">2.7386005751061210e-03</row><row type="TypeDouble" index="2" invalid="no">2.7536830510808208e-03</row><row type="TypeDouble" index="3" invalid="no">2.7689325764917627e-03</row><row type="TypeDouble" index="4" invalid="no">2.7843519420854800e-03</row><row type="TypeDouble" index="5" invalid="no">2.7999440011199778e-03</row><row type="TypeDouble" index="6" invalid="no">2.8157116711248768e-03</row><row type="TypeDouble" index="7" invalid="no">2.8316579357213650e-03</row><row type="TypeDouble" index="8" invalid="no">2.8477858465043430e-03</row><row type="TypeDouble" index="9" invalid="no">2.8640985249892598e-03</row><row type="TypeDouble" index="10" invalid="no">2.8805991646262425e-03</row><row type="TypeDouble" index="11" invalid="no">2.8972910328842532e-03</row><row type="TypeDouble" index="12" invalid="no">2.9141774734081308e-03</row><row type="TypeDouble" index="13" invalid="no">2.9312619082515023e-03</row><row type="TypeDouble" index="14" invalid="no">2.9485478401887074e-03</row><row type="TypeDouble" index="15" invalid="no">2.9660388551090021e-03</row><row type="TypeDouble" index="16" invalid="no">2.9837386244964941e-03</row><row type="TypeDouble" index="17" invalid="no">3.0016509079993999e-03</row><row type="TypeDouble" index="18" invalid="no">3.0197795560924054e-03</row><row type="TypeDouble" index="19" invalid="no">3.0381285128360932e-03</row><row type="TypeDouble" index="20" invalid="no">3.0567018187375823e-03</row><row type="TypeDouble" index="21" invalid="no">3.0755036137167465e-03</row><row type="TypeDouble" index="22" invalid="no">3.0945381401825778e-03</row><row type="TypeDouble" index="23" invalid="no">3.1138097462245057e-03</row><row type="TypeDouble" index="24" invalid="no">3.1333228889237038e-03</row><row type="TypeDouble" index="25" invalid="no">3.1530821377896896e-03</row><row type="TypeDouble" index="26" invalid="no">3.1730921783277807e-03</row><row type="TypeDouble" index="27" invalid="no">3.1933578157432542e-03</row><row type="TypeDouble" index="28" invalid="no">3.2138839787883662e-03</row><row type="TypeDouble" index="29" invalid="no">3.2346757237586934e-03</row><row type="TypeDouble" index="30" invalid="no">3.2557382386456130e-03</row><row type="TypeDouble" index="31" invalid="no">3.2770768474520728e-03</row><row type="TypeDouble" index="32" invalid="no">3.2986970146792020e-03</row><row type="TypeDouble" index="33" invalid="no">3.3206043499916988e-03</row><row type="TypeDouble" index="34" invalid="no">3.3428046130703662e-03</row></column><column creation_time="2026-08-04 10:05:19:817" caption_spec="%n%C{ - }%c" name="Delta ln(R)" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-08-04 10:05:19:817" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-08-04 10:05:19:817" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="14" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="34">1/col(&quot;R&quot;)*col(&quot;Delta R&quot;)/sqrt(3)</formula><row type="TypeDouble" index="0" invalid="no">1.6957602192198151e-01</row><row type="TypeDouble" index="1" invalid="no">1.4895636945092347e-01</row><row type="TypeDouble" index="2" invalid="no">1.4895636945092347e-01</row><row type="TypeDouble" index="3" invalid="no">1.3291886197343386e-01</row><row type="TypeDouble" index="4" invalid="no">1.4895636945092347e-01</row><row type="TypeDouble" index="5" invalid="no">1.2008885599144217e-01</row><row type="TypeDouble" index="6" invalid="no">1.2008885599144217e-01</row><row type="TypeDouble" index="7" invalid="no">1.0959157836981261e-01</row><row type="TypeDouble" index="8" invalid="no">1.0084384701845465e-01</row><row type="TypeDouble" index="9" invalid="no">9.3441920490382510e-02</row><row type="TypeDouble" index="10" invalid="no">8.7097412037749261e-02</row><row type="TypeDouble" index="11" invalid="no">8.1598838045467109e-02</row><row type="TypeDouble" index="12" invalid="no">7.6787585802220240e-02</row><row type="TypeDouble" index="13" invalid="no">7.2542363234649451e-02</row><row type="TypeDouble" index="14" invalid="no">6.5392514699793403e-02</row><row type="TypeDouble" index="15" invalid="no">6.2353829072479591e-02</row><row type="TypeDouble" index="16" invalid="no">5.7105190261664815e-02</row><row type="TypeDouble" index="17" invalid="no">5.2731324585985825e-02</row><row type="TypeDouble" index="18" invalid="no">4.9030361321949760e-02</row><row type="TypeDouble" index="19" invalid="no">4.5858107095633135e-02</row><row type="TypeDouble" index="20" invalid="no">4.1867206617363824e-02</row><row type="TypeDouble" index="21" invalid="no">3.9609727558948878e-02</row><row type="TypeDouble" index="22" invalid="no">3.6693817108496223e-02</row><row type="TypeDouble" index="23" invalid="no">3.4226508265805519e-02</row><row type="TypeDouble" index="24" invalid="no">3.2111672114927763e-02</row><row type="TypeDouble" index="25" invalid="no">2.9720987770457261e-02</row><row type="TypeDouble" index="26" invalid="no">2.8184119263297648e-02</row><row type="TypeDouble" index="27" invalid="no">2.6405604764446287e-02</row><row type="TypeDouble" index="28" invalid="no">2.4527432125573071e-02</row><row type="TypeDouble" index="29" invalid="no">2.3243004385440420e-02</row><row type="TypeDouble" index="30" invalid="no">2.1599692423800124e-02</row><row type="TypeDouble" index="31" invalid="no">2.0222863482966348e-02</row><row type="TypeDouble" index="32" invalid="no">1.9052558883257652e-02</row><row type="TypeDouble" index="33" invalid="no">1.7891222134887717e-02</row><row type="TypeDouble" index="34" invalid="no">1.6773544662772286e-02</row></column><column creation_time="2026-08-04 10:41:55:721" caption_spec="%n%C{ - }%c" name="T kelw" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-08-04 10:41:55:721" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-08-04 10:41:55:721" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="34">273.15+col(&quot;T&quot;)</formula><row type="TypeDouble" index="0" invalid="no">3.6714999999999998e+02</row><row type="TypeDouble" index="1" invalid="no">3.6514999999999998e+02</row><row type="TypeDouble" index="2" invalid="no">3.6314999999999998e+02</row><row type="TypeDouble" index="3" invalid="no">3.6114999999999998e+02</row><row type="TypeDouble" index="4" invalid="no">3.5914999999999998e+02</row><row type="TypeDouble" index="5" invalid="no">3.5714999999999998e+02</row><row type="TypeDouble" index="6" invalid="no">3.5514999999999998e+02</row><row type="TypeDouble" index="7" invalid="no">3.5314999999999998e+02</row><row type="TypeDouble" index="8" invalid="no">3.5114999999999998e+02</row><row type="TypeDouble" index="9" invalid="no">3.4914999999999998e+02</row><row type="TypeDouble" index="10" invalid="no">3.4714999999999998e+02</row><row type="TypeDouble" index="11" invalid="no">3.4514999999999998e+02</row><row type="TypeDouble" index="12" invalid="no">3.4314999999999998e+02</row><row type="TypeDouble" index="13" invalid="no">3.4114999999999998e+02</row><row type="TypeDouble" index="14" invalid="no">3.3914999999999998e+02</row><row type="TypeDouble" index="15" invalid="no">3.3714999999999998e+02</row><row type="TypeDouble" index="16" invalid="no">3.3514999999999998e+02</row><row type="TypeDouble" index="17" invalid="no">3.3314999999999998e+02</row><row type="TypeDouble" index="18" invalid="no">3.3114999999999998e+02</row><row type="TypeDouble" index="19" invalid="no">3.2914999999999998e+02</row><row type="TypeDouble" index="20" invalid="no">3.2714999999999998e+02</row><row type="TypeDouble" index="21" invalid="no">3.2514999999999998e+02</row><row type="TypeDouble" index="22" invalid="no">3.2314999999999998e+02</row><row type="TypeDouble" index="23" invalid="no">3.2114999999999998e+02</row><row type="TypeDouble" index="24" invalid="no">3.1914999999999998e+02</row><row type="TypeDouble" index="25" invalid="no">3.1714999999999998e+02</row><row type="TypeDouble" index="26" invalid="no">3.1514999999999998e+02</row><row type="TypeDouble" index="27" invalid="no">3.1314999999999998e+02</row><row type="TypeDouble" index="28" invalid="no">3.1114999999999998e+02</row><row type="TypeDouble" index="29" invalid="no">3.0914999999999998e+02</row><row type="TypeDouble" index="30" invalid="no">3.0714999999999998e+02</row><row type="TypeDouble" index="31" invalid="no">3.0514999999999998e+02</row><row type="TypeDouble" index="32" invalid="no">3.0314999999999998e+02</row><row type="TypeDouble" index="33" invalid="no">3.0114999999999998e+02</row><row type="TypeDouble" index="34" invalid="no">2.9914999999999998e+02</row></column><column creation_time="2026-08-04 10:38:17:379" caption_spec="%n%C{ - }%c" name="Delta 1/T" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-08-04 10:38:17:379" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-08-04 10:38:17:379" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="34">(col(&quot;Delta T&quot;)/sqrt(3))*1/col(&quot;T kelw&quot;)^2</formula><row type="TypeDouble" index="0" invalid="no">8.5660834949370807e-07</row><row type="TypeDouble" index="1" invalid="no">8.6601767998925541e-07</row><row type="TypeDouble" index="2" invalid="no">8.7558290007127745e-07</row><row type="TypeDouble" index="3" invalid="no">8.8530747246598005e-07</row><row type="TypeDouble" index="4" invalid="no">8.9519495658176758e-07</row><row type="TypeDouble" index="5" invalid="no">9.0524901176676307e-07</row><row type="TypeDouble" index="6" invalid="no">9.1547340069509729e-07</row><row type="TypeDouble" index="7" invalid="no">9.2587199288782123e-07</row><row type="TypeDouble" index="8" invalid="no">9.3644876837459156e-07</row><row type="TypeDouble" index="9" invalid="no">9.4720782150259738e-07</row><row type="TypeDouble" index="10" invalid="no">9.5815336489953757e-07</row><row type="TypeDouble" index="11" invalid="no">9.6928973359780547e-07</row><row type="TypeDouble" index="12" invalid="no">9.8062138932742414e-07</row><row type="TypeDouble" index="13" invalid="no">9.9215292498566695e-07</row><row type="TypeDouble" index="14" invalid="no">1.0038890692917233e-06</row><row type="TypeDouble" index="15" invalid="no">1.0158346916352199e-06</row><row type="TypeDouble" index="16" invalid="no">1.0279948071278741e-06</row><row type="TypeDouble" index="17" invalid="no">1.0403745818680705e-06</row><row type="TypeDouble" index="18" invalid="no">1.0529793384286755e-06</row><row type="TypeDouble" index="19" invalid="no">1.0658145615789737e-06</row><row type="TypeDouble" index="20" invalid="no">1.0788859042522160e-06</row><row type="TypeDouble" index="21" invalid="no">1.0921991937708938e-06</row><row type="TypeDouble" index="22" invalid="no">1.1057604383425502e-06</row><row type="TypeDouble" index="23" invalid="no">1.1195758338396383e-06</row><row type="TypeDouble" index="24" invalid="no">1.1336517708777167e-06</row><row type="TypeDouble" index="25" invalid="no">1.1479948422070807e-06</row><row type="TypeDouble" index="26" invalid="no">1.1626118504337873e-06</row><row type="TypeDouble" index="27" invalid="no">1.1775098160869638e-06</row><row type="TypeDouble" index="28" invalid="no">1.1926959860502581e-06</row><row type="TypeDouble" index="29" invalid="no">1.2081778423763412e-06</row><row type="TypeDouble" index="30" invalid="no">1.2239631115044786e-06</row><row type="TypeDouble" index="31" invalid="no">1.2400597739023724e-06</row><row type="TypeDouble" index="32" invalid="no">1.2564760741547436e-06</row><row type="TypeDouble" index="33" invalid="no">1.2732205315224639e-06</row><row type="TypeDouble" index="34" invalid="no">1.2903019509974923e-06</row></column><column creation_time="2026-01-05 12:58:08:881" caption_spec="%n%C{ - }%c" name="U_av" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-01-05 12:58:08:881" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-01-05 12:58:08:881" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="34">col(&quot;U&quot;)-2.55720</formula><row type="TypeDouble" index="0" invalid="no">1.6448000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">1.5688000000000004e+00</row><row type="TypeDouble" index="2" invalid="no">1.4748000000000001e+00</row><row type="TypeDouble" index="3" invalid="no">1.3797999999999999e+00</row><row type="TypeDouble" index="4" invalid="no">1.2728000000000002e+00</row><row type="TypeDouble" index="5" invalid="no">1.1528000000000000e+00</row><row type="TypeDouble" index="6" invalid="no">1.0748000000000002e+00</row><row type="TypeDouble" index="7" invalid="no">9.6379999999999999e-01</row><row type="TypeDouble" index="8" invalid="no">8.6880000000000024e-01</row><row type="TypeDouble" index="9" invalid="no">7.7079999999999993e-01</row><row type="TypeDouble" index="10" invalid="no">6.6680000000000028e-01</row><row type="TypeDouble" index="11" invalid="no">5.6280000000000019e-01</row><row type="TypeDouble" index="12" invalid="no">4.6280000000000010e-01</row><row type="TypeDouble" index="13" invalid="no">3.5979999999999990e-01</row><row type="TypeDouble" index="14" invalid="no">2.5980000000000025e-01</row><row type="TypeDouble" index="15" invalid="no">1.5580000000000016e-01</row><row type="TypeDouble" index="16" invalid="no">5.6799999999999962e-02</row><row type="TypeDouble" index="17" invalid="no">-7.6200000000000045e-02</row><row type="TypeDouble" index="18" invalid="no">-1.4520000000000000e-01</row><row type="TypeDouble" index="19" invalid="no">-2.4419999999999975e-01</row><row type="TypeDouble" index="20" invalid="no">-3.5119999999999996e-01</row><row type="TypeDouble" index="21" invalid="no">-4.4320000000000004e-01</row><row type="TypeDouble" index="22" invalid="no">-5.4219999999999979e-01</row><row type="TypeDouble" index="23" invalid="no">-6.3319999999999999e-01</row><row type="TypeDouble" index="24" invalid="no">-7.1019999999999994e-01</row><row type="TypeDouble" index="25" invalid="no">-7.9919999999999991e-01</row><row type="TypeDouble" index="26" invalid="no">-8.8119999999999998e-01</row><row type="TypeDouble" index="27" invalid="no">-8.6119999999999997e-01</row><row type="TypeDouble" index="28" invalid="no">-1.0531999999999999e+00</row><row type="TypeDouble" index="29" invalid="no">-1.1192000000000000e+00</row><row type="TypeDouble" index="30" invalid="no">-1.2131999999999998e+00</row><row type="TypeDouble" index="31" invalid="no">-1.2851999999999999e+00</row><row type="TypeDouble" index="32" invalid="no">-1.3721999999999999e+00</row><row type="TypeDouble" index="33" invalid="no">-1.4461999999999999e+00</row><row type="TypeDouble" index="34" invalid="no">-1.5202000000000000e+00</row></column><column creation_time="2026-01-05 12:59:45:276" caption_spec="%n%C{ - }%c" name="T_0" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-01-05 12:59:45:276" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-01-05 12:59:45:276" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">6.2192361051791218e+00</row></column><column creation_time="2026-01-05 13:01:31:537" caption_spec="%n%C{ - }%c" name="1" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-01-05 13:01:31:537" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-01-05 13:01:31:537" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter></column><column creation_time="2026-01-05 12:57:29:010" caption_spec="%n%C{ - }%c" name="T_av" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-01-05 12:57:29:010" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-01-05 12:57:29:010" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="34">col(&quot;T&quot;)-60</formula><row type="TypeDouble" index="0" invalid="no">3.4000000000000000e+01</row><row type="TypeDouble" index="1" invalid="no">3.2000000000000000e+01</row><row type="TypeDouble" index="2" invalid="no">3.0000000000000000e+01</row><row type="TypeDouble" index="3" invalid="no">2.8000000000000000e+01</row><row type="TypeDouble" index="4" invalid="no">2.6000000000000000e+01</row><row type="TypeDouble" index="5" invalid="no">2.4000000000000000e+01</row><row type="TypeDouble" index="6" invalid="no">2.2000000000000000e+01</row><row type="TypeDouble" index="7" invalid="no">2.0000000000000000e+01</row><row type="TypeDouble" index="8" invalid="no">1.8000000000000000e+01</row><row type="TypeDouble" index="9" invalid="no">1.6000000000000000e+01</row><row type="TypeDouble" index="10" invalid="no">1.4000000000000000e+01</row><row type="TypeDouble" index="11" invalid="no">1.2000000000000000e+01</row><row type="TypeDouble" index="12" invalid="no">1.0000000000000000e+01</row><row type="TypeDouble" index="13" invalid="no">8.0000000000000000e+00</row><row type="TypeDouble" index="14" invalid="no">6.0000000000000000e+00</row><row type="TypeDouble" index="15" invalid="no">4.0000000000000000e+00</row><row type="TypeDouble" index="16" invalid="no">2.0000000000000000e+00</row><row type="TypeDouble" index="17" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="18" invalid="no">-2.0000000000000000e+00</row><row type="TypeDouble" index="19" invalid="no">-4.0000000000000000e+00</row><row type="TypeDouble" index="20" invalid="no">-6.0000000000000000e+00</row><row type="TypeDouble" index="21" invalid="no">-8.0000000000000000e+00</row><row type="TypeDouble" index="22" invalid="no">-1.0000000000000000e+01</row><row type="TypeDouble" index="23" invalid="no">-1.2000000000000000e+01</row><row type="TypeDouble" index="24" invalid="no">-1.4000000000000000e+01</row><row type="TypeDouble" index="25" invalid="no">-1.6000000000000000e+01</row><row type="TypeDouble" index="26" invalid="no">-1.8000000000000000e+01</row><row type="TypeDouble" index="27" invalid="no">-2.0000000000000000e+01</row><row type="TypeDouble" index="28" invalid="no">-2.2000000000000000e+01</row><row type="TypeDouble" index="29" invalid="no">-2.4000000000000000e+01</row><row type="TypeDouble" index="30" invalid="no">-2.6000000000000000e+01</row><row type="TypeDouble" index="31" invalid="no">-2.8000000000000000e+01</row><row type="TypeDouble" index="32" invalid="no">-3.0000000000000000e+01</row><row type="TypeDouble" index="33" invalid="no">-3.2000000000000000e+01</row><row type="TypeDouble" index="34" invalid="no">-3.4000000000000000e+01</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width><column_width column="2">120</column_width><column_width column="3">120</column_width><column_width column="4">120</column_width><column_width column="5">120</column_width><column_width column="6">120</column_width><column_width column="7">120</column_width><column_width column="8">120</column_width><column_width column="9">120</column_width><column_width column="10">120</column_width><column_width column="11">120</column_width><column_width column="12">120</column_width><column_width column="13">120</column_width><column_width column="14">120</column_width></table>
+geometry	163	214	1537	562	active
+
+</table>
+<table>
+3788
+<table creation_time="2026-08-04 20:53:01:000" caption_spec="%n%C{ - }%c" name="Tabela4" columns="5" rows="30"><comment><![CDATA[]]></comment><column creation_time="2026-08-04 20:53:01:941" caption_spec="%n%C{ - }%c" name="a" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-08-04 20:53:01:941" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-08-04 20:53:01:941" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">4.7517084934451399e-02</row><row type="TypeDouble" index="1" invalid="no">4.6212262311029498e-02</row></column><column creation_time="2026-08-04 20:53:01:941" caption_spec="%n%C{ - }%c" name="sg" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-08-04 20:53:01:941" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-08-04 20:53:01:942" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">5.1508144970887997e-04</row><row type="TypeDouble" index="1" invalid="no">4.7405874751444099e-04</row></column><column creation_time="2026-08-04 20:56:06:807" caption_spec="%n%C{ - }%c" name="sum" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-08-04 20:56:06:807" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-08-04 20:56:06:807" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter></column><column creation_time="2026-08-04 20:56:59:515" caption_spec="%n%C{ - }%c" name="4" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-08-04 20:56:59:515" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-08-04 20:56:59:515" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter></column><column creation_time="2026-08-04 20:56:54:688" caption_spec="%n%C{ - }%c" name="3" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-08-04 20:56:54:688" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-08-04 20:56:54:688" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter></column><column_width column="0">68</column_width><column_width column="1">120</column_width><column_width column="2">120</column_width><column_width column="3">120</column_width><column_width column="4">120</column_width></table>
+geometry	1457	35	400	300	
+
+</table>
+<table>
+9104
+<table creation_time="2026-30-04 21:56:33:000" caption_spec="%n%C{ - }%c" name="Tabela2-StatKol" columns="11" rows="2"><comment><![CDATA[Statystyka Kolumny Tabela2]]></comment><column creation_time="2026-30-04 21:56:33:422" caption_spec="%n%C{ - }%c" name="Kolumna" type="TypeQString" mode="Text" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-30-04 21:56:33:458" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="SimpleCopyThroughFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-30-04 21:56:33:458" caption_spec="%n%C{ - }%c" name="OutputFilter" filter_name="SimpleCopyThroughFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeQString" index="0" invalid="no">T</row><row type="TypeQString" index="1" invalid="no">U</row></column><column creation_time="2026-30-04 21:56:33:445" caption_spec="%n%C{ - }%c" name="Wiersze" type="TypeQString" mode="Text" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-30-04 21:56:33:460" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="SimpleCopyThroughFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-30-04 21:56:33:460" caption_spec="%n%C{ - }%c" name="OutputFilter" filter_name="SimpleCopyThroughFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeQString" index="0" invalid="no">[1:37]</row><row type="TypeQString" index="1" invalid="no">[1:37]</row></column><column creation_time="2026-30-04 21:56:33:446" caption_spec="%n%C{ - }%c" name="Średnia" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-30-04 21:56:33:446" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-30-04 21:56:33:446" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">5.8000000000000000e+01</row><row type="TypeDouble" index="1" invalid="no">2.6379999999999999e+00</row></column><column creation_time="2026-30-04 21:56:33:446" caption_spec="%n%C{ - }%c" name="OdchStd" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-30-04 21:56:33:446" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-30-04 21:56:33:447" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">2.1648710508172691e+01</row><row type="TypeDouble" index="1" invalid="no">1.0010446487988880e+00</row></column><column creation_time="2026-30-04 21:56:33:447" caption_spec="%n%C{ - }%c" name="Wariancja" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-30-04 21:56:33:447" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-30-04 21:56:33:447" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">4.6866666666666663e+02</row><row type="TypeDouble" index="1" invalid="no">1.0020903888888888e+00</row></column><column creation_time="2026-30-04 21:56:33:448" caption_spec="%n%C{ - }%c" name="Suma" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-30-04 21:56:33:448" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-30-04 21:56:33:448" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">2.1460000000000000e+03</row><row type="TypeDouble" index="1" invalid="no">9.7605999999999995e+01</row></column><column creation_time="2026-30-04 21:56:33:448" caption_spec="%n%C{ - }%c" name="iMax" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-30-04 21:56:33:448" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-30-04 21:56:33:448" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="0" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">3.7000000000000000e+01</row><row type="TypeDouble" index="1" invalid="no">3.7000000000000000e+01</row></column><column creation_time="2026-30-04 21:56:33:449" caption_spec="%n%C{ - }%c" name="Max" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-30-04 21:56:33:449" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-30-04 21:56:33:449" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">9.4000000000000000e+01</row><row type="TypeDouble" index="1" invalid="no">4.2020000000000000e+00</row></column><column creation_time="2026-30-04 21:56:33:450" caption_spec="%n%C{ - }%c" name="iMin" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-30-04 21:56:33:450" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-30-04 21:56:33:450" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="0" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">1.0000000000000000e+00</row></column><column creation_time="2026-30-04 21:56:33:450" caption_spec="%n%C{ - }%c" name="Min" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-30-04 21:56:33:450" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-30-04 21:56:33:450" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">2.2000000000000000e+01</row><row type="TypeDouble" index="1" invalid="no">8.9500000000000002e-01</row></column><column creation_time="2026-30-04 21:56:33:451" caption_spec="%n%C{ - }%c" name="N" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-30-04 21:56:33:451" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-30-04 21:56:33:451" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="0" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">3.7000000000000000e+01</row><row type="TypeDouble" index="1" invalid="no">3.7000000000000000e+01</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width><column_width column="2">120</column_width><column_width column="3">120</column_width><column_width column="4">120</column_width><column_width column="5">120</column_width><column_width column="6">120</column_width><column_width column="7">120</column_width><column_width column="8">120</column_width><column_width column="9">120</column_width><column_width column="10">120</column_width></table>
+geometry	572	-18	816	428	
+
+</table>
+<table>
+9104
+<table creation_time="2026-01-05 12:57:46:721" caption_spec="%n%C{ - }%c" name="Tabela3-StatKol" columns="11" rows="2"><comment><![CDATA[Statystyka Kolumny Tabela3]]></comment><column creation_time="2026-01-05 12:57:46:721" caption_spec="%n%C{ - }%c" name="Kolumna" type="TypeQString" mode="Text" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-01-05 12:57:46:740" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="SimpleCopyThroughFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-01-05 12:57:46:740" caption_spec="%n%C{ - }%c" name="OutputFilter" filter_name="SimpleCopyThroughFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeQString" index="0" invalid="no">T</row><row type="TypeQString" index="1" invalid="no">U</row></column><column creation_time="2026-01-05 12:57:46:735" caption_spec="%n%C{ - }%c" name="Wiersze" type="TypeQString" mode="Text" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-01-05 12:57:46:740" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="SimpleCopyThroughFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-01-05 12:57:46:740" caption_spec="%n%C{ - }%c" name="OutputFilter" filter_name="SimpleCopyThroughFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeQString" index="0" invalid="no">[1:35]</row><row type="TypeQString" index="1" invalid="no">[1:35]</row></column><column creation_time="2026-01-05 12:57:46:736" caption_spec="%n%C{ - }%c" name="Średnia" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-01-05 12:57:46:736" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-01-05 12:57:46:736" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">6.0000000000000000e+01</row><row type="TypeDouble" index="1" invalid="no">2.5571999999999999e+00</row></column><column creation_time="2026-01-05 12:57:46:736" caption_spec="%n%C{ - }%c" name="OdchStd" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-01-05 12:57:46:736" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-01-05 12:57:46:736" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">2.0493901531919196e+01</row><row type="TypeDouble" index="1" invalid="no">9.7559589030318816e-01</row></column><column creation_time="2026-01-05 12:57:46:736" caption_spec="%n%C{ - }%c" name="Wariancja" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-01-05 12:57:46:736" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-01-05 12:57:46:736" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">4.1999999999999994e+02</row><row type="TypeDouble" index="1" invalid="no">9.5178734117647046e-01</row></column><column creation_time="2026-01-05 12:57:46:736" caption_spec="%n%C{ - }%c" name="Suma" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-01-05 12:57:46:736" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-01-05 12:57:46:736" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">2.1000000000000000e+03</row><row type="TypeDouble" index="1" invalid="no">8.9501999999999995e+01</row></column><column creation_time="2026-01-05 12:57:46:737" caption_spec="%n%C{ - }%c" name="iMax" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-01-05 12:57:46:737" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-01-05 12:57:46:737" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="0" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">1.0000000000000000e+00</row></column><column creation_time="2026-01-05 12:57:46:737" caption_spec="%n%C{ - }%c" name="Max" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-01-05 12:57:46:737" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-01-05 12:57:46:737" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">9.4000000000000000e+01</row><row type="TypeDouble" index="1" invalid="no">4.2020000000000000e+00</row></column><column creation_time="2026-01-05 12:57:46:737" caption_spec="%n%C{ - }%c" name="iMin" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-01-05 12:57:46:737" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-01-05 12:57:46:737" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="0" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">3.5000000000000000e+01</row><row type="TypeDouble" index="1" invalid="no">3.5000000000000000e+01</row></column><column creation_time="2026-01-05 12:57:46:737" caption_spec="%n%C{ - }%c" name="Min" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-01-05 12:57:46:737" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-01-05 12:57:46:737" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">2.6000000000000000e+01</row><row type="TypeDouble" index="1" invalid="no">1.0369999999999999e+00</row></column><column creation_time="2026-01-05 12:57:46:737" caption_spec="%n%C{ - }%c" name="N" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2026-01-05 12:57:46:737" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2026-01-05 12:57:46:737" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="0" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">3.5000000000000000e+01</row><row type="TypeDouble" index="1" invalid="no">3.5000000000000000e+01</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width><column_width column="2">120</column_width><column_width column="3">120</column_width><column_width column="4">120</column_width><column_width column="5">120</column_width><column_width column="6">120</column_width><column_width column="7">120</column_width><column_width column="8">120</column_width><column_width column="9">120</column_width><column_width column="10">120</column_width></table>
+geometry	840	509	400	300	
+
+</table>
+<multiLayer>
+chlo1	1	1	środa, 8 kwietnia 2026 09:52:07 CEST
+geometry	565	519	400	300	
+WindowLabel		0
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	430	274
+Alignement	0	0
+<graph>
+ggeometry	4	3	382	242
+PlotTitle	 	#ff000000	4228
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	∆T [K]	U [mV]			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	4	4	4
+TitleFont	Ubuntu	13	75	0	0	0
+ScaleFont0	Ubuntu	10	75	0	0	0
+ScaleFont1	Ubuntu	10	75	0	0	0
+ScaleFont2	Ubuntu	10	75	0	0	0
+ScaleFont3	Ubuntu	10	75	0	0	0
+AxisFont0	Ubuntu	10	50	0	0	0
+AxisFont1	Ubuntu	10	50	0	0	0
+AxisFont2	Ubuntu	10	50	0	0	0
+AxisFont3	Ubuntu	10	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	Tabela3_T	Tabela3_U	1	0	#ff000000	0	1	7	1	#ff000000	#ff000000	0	#ff000000	0	1	0	64		2	0	0	34	1
+ErrorBars	0	Tabela3_T	Tabela3_U	Tabela3_Delta T	1	8	#ff000000	1	1	1
+ErrorBars	1	Tabela3_T	Tabela3_U	Tabela3_Delta U	1	8	#ff000000	1	1	1
+FunctionCurve	0,LiniowaDopasowanie1,x,26,94	2			0	1	#ffff0000	0	1	0	0	#ff000000	#ffa0a0a4	0	#ff000000	0	1	0	64		2	0	-1696898960	25802	1
+<formula>
+B=-0.293870463745281
+A=0.0475170849344514
+
+A*x+B
+
+
+
+
+
+</formula>
+FunctionCurve	0,LiniowaDopasowanie2,x,26,94	2			0	1	#ffff0000	0	1	0	0	#ff000000	#ffa0a0a4	0	#ff000000	0	1	0	64		2	0	-1696841792	25802	1
+<formula>
+B=-0.293870463745281
+A=0.0475170849344514
+
+A*x+B
+
+
+
+
+</formula>
+scale	0	0.5	4.5	0	8	5	0	0
+scale	1	0.5	4.5	0	8	5	0	0
+scale	2	20	100	0	8	5	0	0
+scale	3	20	100	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+</graph>
+</multiLayer>
+<multiLayer>
+ogrz	1	1	środa, 8 kwietnia 2026 11:07:21 CEST
+geometry	980	528	400	300	
+WindowLabel		0
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	426	274
+Alignement	0	0
+<graph>
+ggeometry	4	4	382	242
+PlotTitle	 	#ff000000	4228
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	1/T [1/K]	ln(R) [ln(kΩ)]			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	4	4	4
+TitleFont	Ubuntu	12	75	0	0	0
+ScaleFont0	Ubuntu	10	75	0	0	0
+ScaleFont1	Ubuntu	10	75	0	0	0
+ScaleFont2	Ubuntu	10	75	0	0	0
+ScaleFont3	Ubuntu	10	75	0	0	0
+AxisFont0	Ubuntu	10	50	0	0	0
+AxisFont1	Ubuntu	10	50	0	0	0
+AxisFont2	Ubuntu	10	50	0	0	0
+AxisFont3	Ubuntu	10	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	Tabela3_1/T	Tabela3_ln(R)	1	0	#ff000000	0	1	7	1	#ff000000	#ff000000	0	#ff000000	0	1	0	64		2	0	0	34	1
+FunctionCurve	0,LiniowaDopasowanie1,x,0.00272368241862999,0.00334280461307037	2			0	1	#ffff0000	0	1	0	0	#ff000000	#ffa0a0a4	0	#ff000000	0	1	0	64		2	0	-1694139648	25802	1
+<formula>
+B=-11.9548298718383
+A=4265.0459419609
+
+A*x+B
+
+
+
+
+</formula>
+ErrorBars	1	Tabela3_1/T	Tabela3_ln(R)	Tabela3_Delta ln(R)	1	8	#ff000000	1	1	1
+ErrorBars	0	Tabela3_1/T	Tabela3_ln(R)	Tabela3_Delta 1/T	1	8	#ff000000	1	1	1
+scale	0	-1	2.5	0	8	5	0	0
+scale	1	-1	2.5	0	8	5	0	0
+scale	2	0.0027	0.0034	0	8	5	0	0
+scale	3	0.0027	0.0034	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+</graph>
+</multiLayer>
+<multiLayer>
+chlo	1	1	środa, 8 kwietnia 2026 11:30:45 CEST
+geometry	0	613	196	24	minimized	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	426	274
+Alignement	0	0
+<graph>
+ggeometry	4	4	382	242
+PlotTitle	 	#ff000000	4228
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	1/T [1/K]	ln(R) [ln(kΩ)]			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	4	4	4
+TitleFont	Ubuntu	12	75	0	0	0
+ScaleFont0	Ubuntu	10	75	0	0	0
+ScaleFont1	Ubuntu	10	75	0	0	0
+ScaleFont2	Ubuntu	10	75	0	0	0
+ScaleFont3	Ubuntu	10	75	0	0	0
+AxisFont0	Ubuntu	10	50	0	0	0
+AxisFont1	Ubuntu	10	50	0	0	0
+AxisFont2	Ubuntu	10	50	0	0	0
+AxisFont3	Ubuntu	10	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	Tabela2_1/T	Tabela2_lnR	1	0	#ff000000	0	1	7	1	#ff000000	#ff000000	0	#ff000000	0	1	0	64		2	0	0	36	1
+ErrorBars	1	Tabela2_1/T	Tabela2_lnR	Tabela2_Delta ln(R)	1	8	#ff000000	1	1	1
+ErrorBars	0	Tabela2_1/T	Tabela2_lnR	Tabela2_Delta 1/T	1	8	#ff000000	1	1	1
+FunctionCurve	0,LiniowaDopasowanie1,x,0.00272368241862999,0.00338810774182619	2			0	1	#ffff0000	0	1	0	0	#ff000000	#ffa0a0a4	0	#ff000000	0	1	0	64		2	0	-1694022256	25802	1
+<formula>
+B=-11.4737816779831
+A=4088.11884895112
+
+A*x+B
+
+
+
+
+</formula>
+scale	0	-1	3	0	8	5	0	0
+scale	1	-1	3	0	8	5	0	0
+scale	2	0.0027	0.0035	0	8	5	0	0
+scale	3	0.0027	0.0035	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+</graph>
+</multiLayer>
+<multiLayer>
+ogrz1	1	1	środa, 8 kwietnia 2026 12:06:39 CEST
+geometry	196	613	196	24	minimized	
+WindowLabel		0
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	430	274
+Alignement	0	0
+<graph>
+ggeometry	4	4	382	242
+PlotTitle	 	#ff000000	4228
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	∆T [K]	U [mV]			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	4	4	4
+TitleFont	Ubuntu	12	75	0	0	0
+ScaleFont0	Ubuntu	10	75	0	0	0
+ScaleFont1	Ubuntu	10	75	0	0	0
+ScaleFont2	Ubuntu	10	75	0	0	0
+ScaleFont3	Ubuntu	10	75	0	0	0
+AxisFont0	Ubuntu	10	50	0	0	0
+AxisFont1	Ubuntu	10	50	0	0	0
+AxisFont2	Ubuntu	10	50	0	0	0
+AxisFont3	Ubuntu	10	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	Tabela2_T	Tabela2_U	1	0	#ff000000	0	1	7	1	#ff000000	#ff000000	0	#ff000000	0	1	0	64		2	0	0	36	1
+ErrorBars	1	Tabela2_T	Tabela2_U	Tabela2_Delta U	1	8	#ff000000	1	1	1
+ErrorBars	0	Tabela2_T	Tabela2_U	Tabela2_Delta T	1	8	#ff000000	1	1	1
+FunctionCurve	0,LiniowaDopasowanie1,x,22,94	2			0	1	#ffff0000	0	1	0	0	#ff000000	#ffa0a0a4	0	#ff000000	0	1	0	64		2	0	-1693821600	25802	1
+<formula>
+B=-0.0423364760323186
+A=0.0462122623110295
+
+A*x+B
+
+
+
+
+</formula>
+FunctionCurve	0,LiniowaDopasowanie2,x,22,94	2			0	1	#ffff0000	0	1	0	0	#ff000000	#ffa0a0a4	0	#ff000000	0	1	0	64		2	0	-1693831456	25802	1
+<formula>
+B=-0.0423364760323186
+A=0.0462122623110295
+
+A*x+B
+
+
+
+
+</formula>
+scale	0	0.5	4.5	0	8	5	0	0
+scale	1	0.5	4.5	0	8	5	0	0
+scale	2	20	100	0	8	5	0	0
+scale	3	20	100	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+</graph>
+</multiLayer>
+<multiLayer>
+przesuniete-ogrz	1	1	piątek, 1 maja 2026 11:36:51 CEST
+geometry	757	66	500	400	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	425	274
+Alignement	0	0
+<graph>
+ggeometry	5	5	481	340
+PlotTitle		#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	Tytuł Osi X	Tytuł Osi Y			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	5124	4	5124	4
+TitleFont	Ubuntu	12	75	0	0	0
+ScaleFont0	Ubuntu	10	75	0	0	0
+ScaleFont1	Ubuntu	10	75	0	0	0
+ScaleFont2	Ubuntu	10	75	0	0	0
+ScaleFont3	Ubuntu	10	75	0	0	0
+AxisFont0	Ubuntu	10	50	0	0	0
+AxisFont1	Ubuntu	10	50	0	0	0
+AxisFont2	Ubuntu	10	50	0	0	0
+AxisFont3	Ubuntu	10	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	Tabela2_T przesuniete	Tabela2_U przesuniete	1	0	#ff000000	0	1	7	1	#ff000000	#ff000000	0	#ff000000	0	1	0	64		2	0	0	36	1
+FunctionCurve	0,LiniowaDopasowanie1,x,-36,36	2			0	1	#ffff0000	0	1	0	0	#ff000000	#ffa0a0a4	0	#ff000000	0	1	16	64		2	0	-1706359168	25802	1
+<formula>
+B=-6.93889390390723e-18
+A=0.0462091038406828
+
+A*x+B
+</formula>
+scale	0	-2	2	0	8	5	0	0
+scale	1	-2	2	0	8	5	0	0
+scale	2	-40	40	0	8	5	0	0
+scale	3	-40	40	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+</graph>
+</multiLayer>
+<multiLayer>
+Wykres1	1	1	piątek, 1 maja 2026 12:58:58 CEST
+geometry	947	331	500	400	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	425	274
+Alignement	0	0
+<graph>
+ggeometry	5	5	481	340
+PlotTitle	Tytuł	#ff000000	4228
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	Tytuł Osi X	Tytuł Osi Y			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	5124	4	5124	4
+TitleFont	Ubuntu	12	75	0	0	0
+ScaleFont0	Ubuntu	10	75	0	0	0
+ScaleFont1	Ubuntu	10	75	0	0	0
+ScaleFont2	Ubuntu	10	75	0	0	0
+ScaleFont3	Ubuntu	10	75	0	0	0
+AxisFont0	Ubuntu	10	50	0	0	0
+AxisFont1	Ubuntu	10	50	0	0	0
+AxisFont2	Ubuntu	10	50	0	0	0
+AxisFont3	Ubuntu	10	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	Tabela3_T_av	Tabela3_U_av	1	0	#ff000000	0	1	7	1	#ff000000	#ff000000	0	#ff000000	0	1	0	64		2	0	0	34	1
+FunctionCurve	0,LiniowaDopasowanie1,x,-34,34	2			0	1	#ffff0000	0	1	0	0	#ff000000	#ffa0a0a4	0	#ff000000	0	1	16	64		2	0	-1693637984	25802	1
+<formula>
+B=-2.77555756156289e-17
+A=0.0475485994397759
+
+A*x+B
+</formula>
+scale	0	-2	2	0	8	5	0	0
+scale	1	-2	2	0	8	5	0	0
+scale	2	-40	40	0	8	5	0	0
+scale	3	-40	40	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+</graph>
+</multiLayer>
+<log>
+[wtorek, 7 kwietnia 2026 19:39:44 CEST	Wykres: ''Wykres1'']
+Regresja Liniowa dopasowanie danych: Tabela2_U, funkcją: A*x+B
+Błąd standardowy Y: Powiązane dane (Tabela2_Delta U)
+Od x = 22 do x = 94
+B (przeciętcie y) = -0,0423364760323186 +/- 0,0291170014344904
+A (nachylenie) = 0,0462122623110295 +/- 0,000474058747514441
+--------------------------------------------------------------------------------------
+Chi^2 = 12,7908024425698
+R^2 = 0,998655801240636
+---------------------------------------------------------------------------------------
+[wtorek, 7 kwietnia 2026 22:11:34 CEST	Wykres: ''Wykres2'']
+Zanik wykładniczy dopasowanie danych: Tabela2_R, funkcją: y0+A*exp(-x/t)
+Błąd standardowy Y: Powiązane dane (Tabela2_Delta R)
+Skalowany Levenberg-Marquardt tolerancja algorytmu = 0,0001
+Od x = 295,15 do x = 367,15
+A (amplituda) = 11,1044776119403 +/- 4,53957476159142e+130
+t (czas e-składania) = 1 +/- 1,38492033190735e+127
+y0 (przesunięcie) = 0,358208955223881 +/- 0,0378201511419956
+--------------------------------------------------------------------------------------
+Chi^2 = 9 578,99384711625
+R^2 = -1,10536317790973
+---------------------------------------------------------------------------------------
+Iteracje = 0
+Status = iteration is not making progress towards solution
+---------------------------------------------------------------------------------------
+[wtorek, 7 kwietnia 2026 22:11:57 CEST	Wykres: ''Wykres2'']
+Zanik wykładniczy dopasowanie danych: Tabela2_R, funkcją: A1*exp(-x/t1)+A2*exp(-x/t2)+y0
+Błąd standardowy Y: Powiązane dane (Tabela2_Delta R)
+Skalowany Levenberg-Marquardt tolerancja algorytmu = 0,0001
+Od x = 295,15 do x = 367,15
+A1 (pierwsza amplituda) = 1 +/- 4,92929184061072e+146
+t1 (pierwszy czas życia) = 1 +/- 9,2025087325886e+140
+A2 (druga amplituda) = 1 +/- 4,92929184061072e+146
+t2 (drugi czas życia) = 1 +/- 9,20250873258247e+140
+y0 (przesunięcie) = 0,358208955223881 +/- 3,77820949115982
+--------------------------------------------------------------------------------------
+Chi^2 = 9 578,99384711625
+R^2 = -1,10536317790973
+---------------------------------------------------------------------------------------
+Iteracje = 0
+Status = iteration is not making progress towards solution
+---------------------------------------------------------------------------------------
+[środa, 8 kwietnia 2026 08:09:39 CEST	Wykres: ''Wykres2'']
+Nieliniowe dopasowanie danych: Tabela2_R, funkcją: a*exp(b/(2*1.38*10^(-23)))
+Błąd standardowy Y: Nieznane
+Skalowany Levenberg-Marquardt tolerancja algorytmu = 0,0001
+Od x = 295,15 do x = 367,15
+a  = 1 +/- nan
+b  = 1 +/- nan
+--------------------------------------------------------------------------------------
+Chi^2 = inf
+R^2 = -inf
+---------------------------------------------------------------------------------------
+Iteracje = 0
+Status = iteration is not making progress towards solution
+---------------------------------------------------------------------------------------
+[środa, 8 kwietnia 2026 08:10:23 CEST	Wykres: ''Wykres2'']
+Nieliniowe dopasowanie danych: Tabela2_R, funkcją: a*exp(b/(2*1.38*10^(-23)))
+Błąd standardowy Y: Nieznane
+Skalowany Levenberg-Marquardt tolerancja algorytmu = 0,0001
+Od x = 295,15 do x = 367,15
+a  = 1 +/- nan
+b  = 1 +/- nan
+--------------------------------------------------------------------------------------
+Chi^2 = inf
+R^2 = -inf
+---------------------------------------------------------------------------------------
+Iteracje = 0
+Status = iteration is not making progress towards solution
+---------------------------------------------------------------------------------------
+[środa, 8 kwietnia 2026 08:10:24 CEST	Wykres: ''Wykres2'']
+Nieliniowe dopasowanie danych: Tabela2_R, funkcją: a*exp(b/(2*1.38*10^(-23)))
+Błąd standardowy Y: Nieznane
+Skalowany Levenberg-Marquardt tolerancja algorytmu = 0,0001
+Od x = 295,15 do x = 367,15
+a  = 1 +/- nan
+b  = 1 +/- nan
+--------------------------------------------------------------------------------------
+Chi^2 = inf
+R^2 = -inf
+---------------------------------------------------------------------------------------
+Iteracje = 0
+Status = iteration is not making progress towards solution
+---------------------------------------------------------------------------------------
+[środa, 8 kwietnia 2026 08:10:24 CEST	Wykres: ''Wykres2'']
+Nieliniowe dopasowanie danych: Tabela2_R, funkcją: a*exp(b/(2*1.38*10^(-23)))
+Błąd standardowy Y: Nieznane
+Skalowany Levenberg-Marquardt tolerancja algorytmu = 0,0001
+Od x = 295,15 do x = 367,15
+a  = 1 +/- nan
+b  = 1 +/- nan
+--------------------------------------------------------------------------------------
+Chi^2 = inf
+R^2 = -inf
+---------------------------------------------------------------------------------------
+Iteracje = 0
+Status = iteration is not making progress towards solution
+---------------------------------------------------------------------------------------
+[środa, 8 kwietnia 2026 08:10:25 CEST	Wykres: ''Wykres2'']
+Nieliniowe dopasowanie danych: Tabela2_R, funkcją: a*exp(b/(2*1.38*10^(-23)))
+Błąd standardowy Y: Nieznane
+Skalowany Levenberg-Marquardt tolerancja algorytmu = 0,0001
+Od x = 295,15 do x = 367,15
+a  = 1 +/- nan
+b  = 1 +/- nan
+--------------------------------------------------------------------------------------
+Chi^2 = inf
+R^2 = -inf
+---------------------------------------------------------------------------------------
+Iteracje = 0
+Status = iteration is not making progress towards solution
+---------------------------------------------------------------------------------------
+[środa, 8 kwietnia 2026 08:12:18 CEST	Wykres: ''Wykres2'']
+Nieliniowe dopasowanie danych: Tabela2_R, funkcją: a*exp(b/(2*1.38*10^(-23)))
+Błąd standardowy Y: Nieznane
+Skalowany Levenberg-Marquardt tolerancja algorytmu = 0,0001
+Od x = 295,15 do x = 367,15
+a  = 1 +/- nan
+b  = 1 +/- nan
+--------------------------------------------------------------------------------------
+Chi^2 = inf
+R^2 = -inf
+---------------------------------------------------------------------------------------
+Iteracje = 0
+Status = iteration is not making progress towards solution
+---------------------------------------------------------------------------------------
+[środa, 8 kwietnia 2026 08:15:12 CEST	Wykres: ''Wykres2'']
+Zanik wykładniczy dopasowanie danych: Tabela2_R, funkcją: y0+A*exp(-x/t)
+Błąd standardowy Y: Powiązane dane (Tabela2_Delta R)
+Skalowany Levenberg-Marquardt tolerancja algorytmu = 0,0001
+Od x = 295,15 do x = 367,15
+A (amplituda) = 10,9183098591549 +/- 4,53957476159026e+130
+t (czas e-składania) = 1 +/- 1,40853456426565e+127
+y0 (przesunięcie) = 0,43943661971831 +/- 0,0378201511419934
+--------------------------------------------------------------------------------------
+Chi^2 = 9 271,96752155947
+R^2 = -1,03788198616945
+---------------------------------------------------------------------------------------
+Iteracje = 0
+Status = iteration is not making progress towards solution
+---------------------------------------------------------------------------------------
+[środa, 8 kwietnia 2026 08:25:39 CEST	Wykres: ''Wykres2'']
+Nieliniowe dopasowanie danych: Tabela2_R, funkcją: a*exp(b/(2*1.38*x*10^(-23)))
+Błąd standardowy Y: Nieznane
+Skalowany Levenberg-Marquardt tolerancja algorytmu = 0,0001
+Od x = 295,15 do x = 367,15
+a  = 1 +/- nan
+b  = 1 +/- nan
+--------------------------------------------------------------------------------------
+Chi^2 = inf
+R^2 = -inf
+---------------------------------------------------------------------------------------
+Iteracje = 0
+Status = iteration is not making progress towards solution
+---------------------------------------------------------------------------------------
+[środa, 8 kwietnia 2026 08:26:57 CEST	Wykres: ''Wykres2'']
+Nieliniowe dopasowanie danych: Tabela2_R, funkcją: a=12
+a*exp(b/(2*1.38*x*10^(-23)))
+Błąd standardowy Y: Nieznane
+Skalowany Levenberg-Marquardt tolerancja algorytmu = 0,0001
+Od x = 295,15 do x = 367,15
+b  = 1 +/- nan
+--------------------------------------------------------------------------------------
+Chi^2 = inf
+R^2 = -inf
+---------------------------------------------------------------------------------------
+Iteracje = 0
+Status = iteration is not making progress towards solution
+---------------------------------------------------------------------------------------
+[środa, 8 kwietnia 2026 08:32:13 CEST	Wykres: ''Wykres3'']
+Nieliniowe dopasowanie danych: Tabela2_lnR, funkcją: a0+a1*x
+Błąd standardowy Y: Nieznane
+Skalowany Levenberg-Marquardt tolerancja algorytmu = 0,0001
+Od x = 295,15 do x = 367,15
+a  = 1 +/- nan
+b  = 1 +/- nan
+--------------------------------------------------------------------------------------
+Chi^2 = nan
+R^2 = nan
+---------------------------------------------------------------------------------------
+Iteracje = 0
+Status = iteration is not making progress towards solution
+---------------------------------------------------------------------------------------
+[środa, 8 kwietnia 2026 08:34:11 CEST	Wykres: ''Wykres3'']
+Nieliniowe dopasowanie danych: Tabela2_lnR, funkcją: a0+a1*x
+Błąd standardowy Y: Nieznane
+Skalowany Levenberg-Marquardt tolerancja algorytmu = 0,0001
+Od x = 295,15 do x = 367,15
+a  = -1 000 000 +/- nan
+b  = 500 +/- nan
+--------------------------------------------------------------------------------------
+Chi^2 = nan
+R^2 = nan
+---------------------------------------------------------------------------------------
+Iteracje = 0
+Status = iteration is not making progress towards solution
+---------------------------------------------------------------------------------------
+[środa, 8 kwietnia 2026 08:34:13 CEST	Wykres: ''Wykres3'']
+Nieliniowe dopasowanie danych: Tabela2_lnR, funkcją: a0+a1*x
+Błąd standardowy Y: Nieznane
+Skalowany Levenberg-Marquardt tolerancja algorytmu = 0,0001
+Od x = 295,15 do x = 367,15
+a  = -1 000 000 +/- nan
+b  = 500 +/- nan
+--------------------------------------------------------------------------------------
+Chi^2 = nan
+R^2 = nan
+---------------------------------------------------------------------------------------
+Iteracje = 0
+Status = iteration is not making progress towards solution
+---------------------------------------------------------------------------------------
+[środa, 8 kwietnia 2026 08:35:13 CEST	Wykres: ''Wykres3'']
+Regresja Liniowa dopasowanie danych: Tabela2_lnR, funkcją: A*x+B
+Błąd standardowy Y: Nieznane
+Od x = 295,15 do x = 367,15
+B (przeciętcie y) = 13,5359878210203 +/- 0,13416666171974
+A (nachylenie) = -0,0381145560675907 +/- 0,000404313985786846
+--------------------------------------------------------------------------------------
+Chi^2 = 0,0965321857662125
+R^2 = 0,998261943926783
+---------------------------------------------------------------------------------------
+[środa, 8 kwietnia 2026 09:57:32 CEST	Wykres: ''Wykres4'']
+Regresja Liniowa dopasowanie danych: Tabela3_U, funkcją: A*x+B
+Błąd standardowy Y: Powiązane dane (Tabela3_Delta U)
+Od x = 26 do x = 94
+B (przeciętcie y) = -0,293870463745281 +/- 0,0324233443636383
+A (nachylenie) = 0,0475170849344514 +/- 0,00051508144970888
+--------------------------------------------------------------------------------------
+Chi^2 = 20,1357574241062
+R^2 = 0,997639555085857
+---------------------------------------------------------------------------------------
+[środa, 8 kwietnia 2026 10:41:26 CEST	Wykres: ''Wykres5'']
+Regresja Liniowa dopasowanie danych: Tabela3_ln(R), funkcją: A*x+B
+Błąd standardowy Y: Powiązane dane (Tabela3_Delta ln(R))
+Od x = 26 do x = 94
+B (przeciętcie y) = 3,2752470155277 +/- 0,0188662682251356
+A (nachylenie) = -0,039879185165653 +/- 0,000458163185214263
+--------------------------------------------------------------------------------------
+Chi^2 = 6,07289584933411
+R^2 = 0,999199067936362
+---------------------------------------------------------------------------------------
+[środa, 8 kwietnia 2026 11:13:32 CEST	Wykres: ''Wykres5'']
+Regresja Liniowa dopasowanie danych: Tabela3_ln(R), funkcją: A*x+B
+Błąd standardowy Y: Nieznane
+Od x = 0,00272368241862999 do x = 0,00334280461307037
+B (przeciętcie y) = -11,9548298718383 +/- 0,105529641360246
+A (nachylenie) = 4 265,0459419609 +/- 34,9628058998267
+--------------------------------------------------------------------------------------
+Chi^2 = 0,0475275989617727
+R^2 = 0,999039813867113
+---------------------------------------------------------------------------------------
+[środa, 8 kwietnia 2026 11:26:08 CEST	Wykres: ''Wykres6'']
+Regresja Liniowa dopasowanie danych: Tabela3_ln(R), funkcją: A*x+B
+Błąd standardowy Y: Nieznane
+Od x = 0,00272368241862999 do x = 0,00334280461307037
+B (przeciętcie y) = -11,9548298718383 +/- 0,105529641360246
+A (nachylenie) = 4 265,0459419609 +/- 34,9628058998267
+--------------------------------------------------------------------------------------
+Chi^2 = 0,0475275989617727
+R^2 = 0,999039813867113
+---------------------------------------------------------------------------------------
+[środa, 8 kwietnia 2026 11:44:55 CEST	Wykres: ''Wykres6'']
+Regresja Liniowa dopasowanie danych: Tabela2_lnR, funkcją: A*x+B
+Błąd standardowy Y: Powiązane dane (Tabela2_Delta ln(R))
+Od x = 0,00272368241862999 do x = 0,00338810774182619
+B (przeciętcie y) = -11,4737816779831 +/- 0,134569428948518
+A (nachylenie) = 4 088,11884895112 +/- 41,3830759989514
+--------------------------------------------------------------------------------------
+Chi^2 = 16,8283456185426
+R^2 = 0,998278560839871
+---------------------------------------------------------------------------------------
+[środa, 8 kwietnia 2026 12:08:09 CEST	Wykres: ''ogrz1'']
+Regresja Liniowa dopasowanie danych: Tabela2_U, funkcją: A*x+B
+Błąd standardowy Y: Powiązane dane (Tabela2_Delta U)
+Od x = 22 do x = 94
+B (przeciętcie y) = -0,0423364760323186 +/- 0,0291170014344904
+A (nachylenie) = 0,0462122623110295 +/- 0,000474058747514441
+--------------------------------------------------------------------------------------
+Chi^2 = 12,7908024425698
+R^2 = 0,998655801240636
+---------------------------------------------------------------------------------------
+[środa, 8 kwietnia 2026 12:24:47 CEST	Wykres: ''ogrz1'']
+Regresja Liniowa dopasowanie danych: Tabela2_U, funkcją: A*x+B
+Błąd standardowy Y: Powiązane dane (Tabela2_Delta U)
+Od x = 22 do x = 94
+B (przeciętcie y) = -0,0423364760323186 +/- 0,0291170014344904
+A (nachylenie) = 0,0462122623110295 +/- 0,000474058747514441
+--------------------------------------------------------------------------------------
+Chi^2 = 12,7908024425698
+R^2 = 0,998655801240636
+---------------------------------------------------------------------------------------
+[środa, 8 kwietnia 2026 12:24:54 CEST	Wykres: ''chlo1'']
+Regresja Liniowa dopasowanie danych: Tabela3_U, funkcją: A*x+B
+Błąd standardowy Y: Powiązane dane (Tabela3_Delta U)
+Od x = 26 do x = 94
+B (przeciętcie y) = -0,293870463745281 +/- 0,0324233443636383
+A (nachylenie) = 0,0475170849344514 +/- 0,00051508144970888
+--------------------------------------------------------------------------------------
+Chi^2 = 20,1357574241062
+R^2 = 0,997639555085857
+---------------------------------------------------------------------------------------
+[piątek, 1 maja 2026 11:43:13 CEST	Wykres: ''Wykres2'']
+Regresja Liniowa dopasowanie danych: Tabela2_U przesuniete, funkcją: A*x+B
+Błąd standardowy Y: Nieznane
+Od x = 237,15 do x = 309,15
+B (przeciętcie y) = -12,6220167140825 +/- 0,0787525747134827
+A (nachylenie) = 0,0462091038406828 +/- 0,000287435533445563
+--------------------------------------------------------------------------------------
+Chi^2 = 0,0487882816500711
+R^2 = 0,998647597002364
+---------------------------------------------------------------------------------------
+[piątek, 1 maja 2026 11:49:19 CEST	Wykres: ''przesuniete-ogrz'']
+Regresja Liniowa dopasowanie danych: Tabela2_U przesuniete, funkcją: A*x+B
+Błąd standardowy Y: Nieznane
+Od x = -36 do x = 36
+B (przeciętcie y) = -6,93889390390723e-18 +/- 0,00613794336602528
+A (nachylenie) = 0,0462091038406828 +/- 0,000287435533445563
+--------------------------------------------------------------------------------------
+Chi^2 = 0,0487882816500711
+R^2 = 0,998647597002364
+---------------------------------------------------------------------------------------
+[piątek, 1 maja 2026 12:59:29 CEST	Wykres: ''Wykres1'']
+Regresja Liniowa dopasowanie danych: Tabela3_U_av, funkcją: A*x+B
+Błąd standardowy Y: Nieznane
+Od x = -34 do x = 34
+B (przeciętcie y) = -2,77555756156289e-17 +/- 0,0080880368065581
+A (nachylenie) = 0,0475485994397759 +/- 0,000400417488575921
+--------------------------------------------------------------------------------------
+Chi^2 = 0,0755558719887956
+R^2 = 0,99766520163387
+---------------------------------------------------------------------------------------
+</log>
